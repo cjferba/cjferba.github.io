@@ -1,18 +1,19 @@
+# main links
 main:
   - title: "Research"
     url: /research/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Publications"
     url: /publications/
 
- - title: "Talks and media"
-   url: /talks/
+# - title: "Talks and media"
+#   url: /talks/
 
   - title: "Resources"
     url: /resources/
     
-  - title: "Blog"
-    url: /blog/
-
   - title: "CV"
     url: /CV/
