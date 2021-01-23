@@ -15,10 +15,10 @@ title                    : "Dr CArlos Fernandez-Basso"
 title_separator          : "-"
 subtitle                 : "Data scientist"
 name                     : &name "Carlos Fernandez-Basso" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+description              : &description ""
+url                      : https://cjferba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/cjferba" # the subpath of your site, e.g. "/blog"
+repository               : "cjferba/cjferba.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -57,16 +57,16 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "o9NsROV1BU5JTRic-C7Tj1kwCvM6YYG3eH7TTmUisXg" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "cjferba"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook 
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "UA-72595181-2" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
@@ -91,20 +91,17 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  location         : "Granada, ES"
   links:
-    - label: "Made Mistakes"
+    - label: "Carlos Fernandez-Basso"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://cjferba.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/cjferba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/cjferba"
 
 
 # Site Footer
@@ -112,13 +109,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/cjferba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/cjferba"
 
 
 # Reading Files
