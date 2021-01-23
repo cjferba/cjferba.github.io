@@ -103,10 +103,10 @@ author:
   gitlab           : "cjferba"
   linkedin         : "cjferba"
   twitter          : "cjferba"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://cjferba.github.io"
+#  links:
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://cjferba.github.io"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/cjferba"
