@@ -97,6 +97,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Data Science"
   location         : "Granada, Spain"
+  email            : "cjferba@decsai.ugr.es"
+  uri              : "https://directorio.ugr.es/static/PersonalUGR/*/show/e959c1cca737c64a26fd8d09449358b5"
+  github           : "cjferba"
+  linkedin         : "cjferba"
+  twitter          : "cjferba"
   links:
 #    - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
@@ -113,20 +118,26 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cjferba"
+      author:
+
+
+
+
 
 
 
 # Site Footer
 footer:
-  links:
-    orcid            : 
-  
+  links:            :  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/cjferba"
+    - label: "Researchgate"
+      icon: "fab fa-orcid"
+       url: "https://orcid.org/0000-0002-8809-8676"
     - label: "Researchgate"
       icon: "fab fa-researchgate"
-       url: "https://orcid.org/0000-0002-8809-8676"
+      url: "https://www.researchgate.net/profile/Carlos-Fernandez-Basso"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/cjferba"
