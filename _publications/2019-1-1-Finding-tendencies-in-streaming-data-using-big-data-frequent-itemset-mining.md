@@ -1,30 +1,34 @@
 ---
-title: "Finding tendencies in streaming data using big data frequent itemset mining"
+title: "Extraction of association rules using big data technologies"
 collection: publications
 permalink: /publication/2019-1-1-Finding-tendencies-in-streaming-data-using-big-data-frequent-itemset-mining
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-1-1
-venue: 'Knowledge-Based Systems'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705118304775'
-citation: 'Fernandez-Basso, C., Francisco-Agra, A. J., Martin-Bautista, M. J., & Ruiz, M. D. (2019). &quot;Finding tendencies in streaming data using big data frequent itemset mining.&quot; <i>Knowledge-Based Systems<i>, 163, 666-674.'
+date: 2016-7-31
+venue: 'International Journal of Design & Nature and Ecodynamics'
+paperurl: 'https://www.witpress.com/Secure/ejournals/papers/DNE110303f.pdf'
+citation: 'Fernandez-Basso, C., Ruiz, M. D., & Martin-Bautista, M. J. (2016). &quot;Extraction of association rules using big data technologies.&quot; <i>International Journal of Design & Nature and Ecodynamics<i>, 11(3), 178-185.'
 ---
-The amount of information generated in social media channels or economical/business transactions exceeds the usual bounds of static databases and is in continuous growing. In this work, we propose a frequent itemset mining method using sliding windows capable of extracting tendencies from continuous data flows. For that aim, we develop this method using Big Data technologies, in particular, using the Spark Streaming framework enabling distributing the computation along several clusters and thus improving the algorithm speed. The experimentation carried out shows the capability of our proposal and its scalability when massive amounts of data coming from streams are taken into account.
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304775)
-[![DOI](https://img.shields.io/badge/KNOSYS-2018.09.026-green)](https://doi.org/10.1016/j.knosys.2018.09.026)
-![Q](https://img.shields.io/badge/JCR-Q1-red)
+
+The large amount of information stored by companies and the rise of social networks and the Internet of Things are producing exponential growth in the amount of data being produced. Data analysis techniques must therefore be improved to enable all this information to be processed. One of the most commonly used techniques for extracting information in the data mining field is that of association rules, which accurately represent the frequent co-occurrence of items in a dataset. Although several methods have been proposed for mining association rules, these methods do not perform well in very large databases due to high computational costs and lack of memory problems.
+
+[Download paper here](https://www.witpress.com/Secure/ejournals/papers/DNE110303f.pdf)
+[![DOI](https://img.shields.io/badge/IJDNE-2016.07.31-green)](https://doi.org/10.2495/DNE-V11-N3-178-185)
+![Q](https://img.shields.io/badge/SJR-Q4-green)
 
 Recommended citation: 
 
 
 ```
-@article{fernandez2019finding,
-  title={Finding tendencies in streaming data using big data frequent itemset mining},
-  author={Fernandez-Basso, Carlos and Francisco-Agra, Abel J and Martin-Bautista, Maria J and Ruiz, M Dolores},
-  journal={Knowledge-Based Systems},
-  volume={163},
-  pages={666--674},
-  year={2019},
-  publisher={Elsevier}
+@article{fernandez2016extraction,
+  title={Extraction of association rules using big data technologies},
+  author={Fernandez-Basso, Carlos and Ruiz, M Dolores and Martin-Bautista, Maria J},
+  journal={International Journal of Design \& Nature and Ecodynamics},
+  volume={11},
+  number={3},
+  pages={178--185},
+  year={2016},
+  publisher={WIT Press}
 }
 ```
+
