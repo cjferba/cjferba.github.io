@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-1-1
 venue: 'Knowledge-Based Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705118304775'
-citation: 'Fernandez-Basso, C., Ruiz, M. D., & Martin-Bautista, M. J. (2016). &quot;Extraction of association rules using big data technologies.&quot; <i>International Journal of Design & Nature and Ecodynamics<i>, 11(3), 178-185.'
+citation: 'Fernandez-Basso, C., Francisco-Agra, A. J., Martin-Bautista, M. J., & Ruiz, M. D. (2019). &quot;Finding tendencies in streaming data using big data frequent itemset mining.&quot; <i>Knowledge-Based Systems<i>, 163, 666-674.'
 ---
 
 
@@ -16,7 +16,7 @@ The amount of information generated in social media channels or economical/busin
 [![DOI](https://img.shields.io/badge/KNOSYS-2018.09.026-green)](https://doi.org/10.1016/j.knosys.2018.09.026)
 ![Q](https://img.shields.io/badge/JCR-Q1-red)
 
-Recommended citation: 
+BibTeX citation: 
 
 
 ```
