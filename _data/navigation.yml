@@ -1,12 +1,18 @@
-# main links
 main:
-  - title: "Main"
-    url: https://cjferba.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Publications"
-     url: /Docs/_Publications/
-   - title: "Sample Posts"
-     url: /year-archive/
-   - title: "Sample Collections"
-     url: /collection-archive/
-   - title: "Sitemap"
-     url: /sitemap/
+  - title: "Research"
+    url: /research/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Publications"
+    url: /publications/
+
+# - title: "Talks and media"
+#   url: /talks/
+
+  - title: "Resources"
+    url: /resources/
+    
+  - title: "CV"
+    url: /CV/
