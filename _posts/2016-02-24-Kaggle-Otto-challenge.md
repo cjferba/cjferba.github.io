@@ -1,7 +1,7 @@
 ---
 title: 'Kaggle Otto challenge'
 Date: 2016-02-24 22:48
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2016/02/Kaggle-Otto-challenge/
 tag:
 - Data Science
 - Python
