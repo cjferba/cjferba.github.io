@@ -103,22 +103,16 @@ author:
   linkedin         : "cjferba"
   twitter          : "cjferba"
   links:
-#    - label: "Email"
- #     icon: "fas fa-fw fa-envelope-square"
-  #     url: "mailto:cjferba@decsai.ugr.es"
-  #  - label: "Website"
-  #    icon: "cjferba"
-   #   url: "https://cjferba.github.io"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cjferba.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cjferba"
-#    - label: "Researchgate"
- #     icon: "fab fa-researchgate"
-  #     url: "https://www.researchgate.net/profile/Carlos-Fernandez-Basso"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cjferba"
-
+    
 # Site Footer
 footer:
   links:            :  
