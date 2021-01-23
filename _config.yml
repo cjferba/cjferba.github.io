@@ -97,8 +97,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Data Science"
   location         : "Granada, Spain"
-  employer         : "University of Granada"
-  email            : "cjferba@decsai.ugr.es"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
