@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Main"
     url: https://cjferba.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://cjferba.github.io/minimal-mistakes/about/
+   - title: "Publications"
+     url: /Docs/_Publications/
    - title: "Sample Posts"
      url: /year-archive/
    - title: "Sample Collections"
