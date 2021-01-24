@@ -6,7 +6,7 @@ excerpt: 'The large amount of information stored by companies and the rise of so
 date: 2016-7-31
 venue: 'International Journal of Design & Nature and Ecodynamics'
 paperurl: 'https://www.witpress.com/Secure/ejournals/papers/DNE110303f.pdf'
-citation: 'Fernandez-Basso, C., Ruiz, M. D., & Martin-Bautista, M. J. (2016). &quot;Extraction of association rules using big data technologies.&quot; <i>International Journal of Design & Nature and Ecodynamics<i>, 11(3), 178-185.'
+citation: 'Fernandez-Basso, C., Ruiz, M. D., & Martin-Bautista, M. J. (2016). Extraction of association rules using big data technologies. International Journal of Design & Nature and Ecodynamics, 11(3), 178-185.'
 ---
 
 

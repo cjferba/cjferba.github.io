@@ -6,19 +6,14 @@ excerpt: 'The amount of information generated in social media channels or econom
 date: 2019-1-1
 venue: 'Knowledge-Based Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705118304775'
-citation: 'Fernandez-Basso, C., Francisco-Agra, A. J., Martin-Bautista, M. J., & Ruiz, M. D. (2019). &quot;Finding tendencies in streaming data using big data frequent itemset mining.&quot; <i>Knowledge-Based Systems<i>, 163, 666-674.'
+citation: 'Fernandez-Basso, C., Francisco-Agra, A. J., Martin-Bautista, M. J., & Ruiz, M. D. (2019). Finding tendencies in streaming data using big data frequent itemset mining. Knowledge-Based Systems, 163, 666-674.'
 ---
-
-
-
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304775)
 [![DOI](https://img.shields.io/badge/KNOSYS-2018.09.026-green)](https://doi.org/10.1016/j.knosys.2018.09.026)
 ![Q](https://img.shields.io/badge/JCR-Q1-red)
 
 BibTeX citation: 
-
-
 ```
 @article{fernandez2019finding,
   title={Finding tendencies in streaming data using big data frequent itemset mining},
