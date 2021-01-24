@@ -59,7 +59,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "o9NsROV1BU5JTRic-C7Tj1kwCvM6YYG3eH7TTmUisXg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Fernandez-Basso"
-  avatar           : "images/carlos.jpg"
+  avatar           : "carlos.jpg"
   bio              : "PhD in Data Science"
   location         : "Granada, Spain"
   employer         :
