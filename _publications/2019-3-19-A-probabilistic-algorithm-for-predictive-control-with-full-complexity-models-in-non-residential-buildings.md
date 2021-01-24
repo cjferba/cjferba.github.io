@@ -5,7 +5,7 @@ permalink: /publication/2019-3-19-A-probabilistic-algorithm-for-predictive-contr
 excerpt: ''
 date: 2019-3-19
 venue: 'IEEE Access'
-paperurl: ''
+paperurl: '[Paper URL](https://ieeexplore.ieee.org/document/8669762)'
 citation: 'Gómez-Romero, J., Fernandez-Basso, C. J., Cambronero, M. V., Molina-Solana, M., Campana, J. R., Ruiz, M. D., & Martin-Bautista, M. J. (2019). A probabilistic algorithm for predictive control with full-complexity models in non-residential buildings. IEEE Access, 7, 38748-38765.'
 ---
 
