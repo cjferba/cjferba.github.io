@@ -9,6 +9,9 @@
 #remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "dark" # , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+header:
+  image: /images/image-alignment-580x300.jpg
+
 # Site Settings
 locale                   : "es-ES"
 title                    : "Dr Carlos Fernandez-Basso"
@@ -18,7 +21,7 @@ description              : &description "personal description"
 url                      : https://cjferba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjferba/cjferba.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/image-alignment-580x300.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -53,6 +56,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -86,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Fernandez-Basso"
-  avatar           : "carlos.jpg"
+  avatar           : "/images/carlos.jpg"
   bio              : "PhD in Data Science"
   location         : "Granada, Spain"
   employer         :
