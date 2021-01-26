@@ -18,8 +18,8 @@ degrees:
     url: "www.ugr.es"
   grade: #(optional)summa cum laude
     scale: Score 
-    achieved: summa cum laude
-    outOf:  -
+    achieved: 10 summa cum laude
+    outOf:  10
   publications:
   - title: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
     url: "https://ieeexplore.ieee.org/abstract/document/9085888/"
