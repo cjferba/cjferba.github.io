@@ -12,54 +12,21 @@ section:
 degrees:
 - name: Ph.D in Computer Science
   icon: fa-robot
-  timeframe: 2016-2020
+  timeframe: 2015-2020
   institution:
     name: University of Granada
-    url: "www.ugr.es"
-  grade: summa cum laude
-    scale: #(optional)
-    achieved: #(optional)
-    outOf: #(optional)
-  publications: #(optional)
-  - title: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
-    url: "https://ieeexplore.ieee.org/abstract/document/9085888/"
-  - title: A probabilistic algorithm for predictive control with full-complexity models in non-residential buildings
-    url: "https://ieeexplore.ieee.org/abstract/document/8669762/"
-  - title: Finding tendencies in streaming data using big data frequent itemset mining
-    url: "https://www.sciencedirect.com/science/article/pii/S0950705118304775"
-  - title: Extraction of association rules using big data technologies
-    url: "https://www.witpress.com/elibrary/dne/11/3/1189"
-- name: Master in Big Data and Data Science
-  icon: fa-user-graduate
-  timeframe: 2015-2016
-  institution:
-    name: University of Granada
-    url: "www.ugr.es"
+    url: "#"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    scale: Score
+    achieved: 4 
+    outOf: 4 (Cum laude)
   publications: #(optional)
-  - title: Reglas de asociación difusas en Big Data
-    url: "https://digibug.ugr.es/handle/10481/63902"
-  extracurricularActivities: #(optional)
-  - [Kaggle challange Otto](https://www.kaggle.com/c/otto-group-product-classification-challenge)
+  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    url: "#"
+  - title: Fusce eu augue ut odio porttitor pulvinar.
+    url: "#"
+  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+    url: "#"
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016

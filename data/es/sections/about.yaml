@@ -11,14 +11,14 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: University of Granada
-  url: "https://www.ugr.es"
+  name: Example Co.
+  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate researcher focused on applying artificial intelligence to real-world applications.  My applications extract hidden knowledge from large datasets in applications like energy efficiency and cyber-crime. help people deploy their workloads on Kubernetes.  I also teach at the university about operating systems, graphic design... Sometimes, I work on some fun projects like kaggle competitions, etc.'
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -33,19 +33,19 @@ socialLinks:
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "https://stackexchange.com/users/2919799/cjferba"
+  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/cjferba/"
+  url: "#"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "https://twitter.com/cjferba?lang=es"
+  url: "#"
 
-#- name: Facebook
- # icon: "fab fa-facebook"
-  #url: "#"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

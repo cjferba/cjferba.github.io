@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of Granada.
+    url: "https://www.ugr.es"
+    location: Granada, Spain
+    # company overview
+    overview: The University of Granada is a world top university in data science and computer science.
+  positions:
+  - designation: Data scientist 
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designing big data algorithms to improve energy efficiency in non-residential buildings.
+    - Implementing visualisation tools for massive datasets.
+    - Application of artificial intelligence algorithms for cybercrime and cybercrime projects.
+
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: Imperial College London
+    url: "https://www"
+    location: Nowhere
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Intern Counting Company (ICC).
+    url: "https://www.intern.com"
+    location: Intern Land
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Intern
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.

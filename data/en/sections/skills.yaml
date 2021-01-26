@@ -12,38 +12,38 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Artificial Inteligence
-  logo: "/images/sections/skills/kubernetes.png"
+  logo: "/images/sections/skills/IA.png"
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  url: "https://www.ciencia.gob.es/portal/site/MICINN/menuitem.26172fcf4eb029fa6ec7da6901432ea0/?vgnextoid=70fcdb77ec929610VgnVCM1000001d04140aRCRD&lang_choosen=en"
 
-- name: Data science
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Big Data
+  logo: "/images/sections/skills/BigData2.png"
+  summary: "Development of artificial intelligence applications using large data sets. Use of ETL, storage and processing tools in Big Data."
+  url: "https://ambari.apache.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#- name: Cloud Computing
+#  logo: "/images/sections/skills/cloud.png"
+#  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
 - name: Docker
   logo: "/images/sections/skills/docker.svg"
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+#- name: Cyber-crime
+#  logo: "/images/sections/skills/prometheus.png"
+#  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#  url: "https://prometheus.io/"
 
 - name: Linux
   logo: "/images/sections/skills/linux.png"
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+#- name: Git
+#  logo: "/images/sections/skills/git.png"
+#  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+#  url: "https://git-scm.com/"
 
 - name: Python
-  logo: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  logo: "/images/sections/skills/python.png"
+  summary: "Expert in Python programming. Used for programming for application development, algorithms and problem solving."

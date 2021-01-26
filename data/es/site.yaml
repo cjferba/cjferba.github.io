@@ -2,12 +2,10 @@
 copyright: © 2020 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Carlos Fernandez-Basso.
+description: Portfolio and personal blog of John Doe.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: ARMxtend
-  url: https://cjferba.github.com/ARMxtend/
-- name: TSxtend
-  url: https://github.com/ugritlab/TSxtend
+- name: Docs
+  url: https://toha-guides.netlify.app/posts/
