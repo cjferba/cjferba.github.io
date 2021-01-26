@@ -11,21 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: University of Granada.
+    url: "https://www.ugr.es"
+    location: Granada, Spain
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The University of Granada is a world top university in data science and computer science.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Data scientist 
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Designing big data algorithms to improve energy efficiency in non-residential buildings.
+    - Implementing visualisation tools for massive datasets.
+    - Application of artificial intelligence algorithms for cybercrime and cybercrime projects.
 
   - designation: Junior Software Engineer
     start: Nov 2017
@@ -36,8 +36,8 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
+    name: Imperial College London
+    url: "https://www"
     location: Nowhere
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:

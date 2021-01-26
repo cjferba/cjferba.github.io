@@ -11,27 +11,18 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
+  es:
+    languageName: Spanish
     weight: 2
   fr:
     languageName: Français
     weight: 3
-  id:
-    languageName: Indonesian
-    weight: 4
   de:
     languageName: Deutsch
-    weight: 5
-  es:
-    languageName: Spanish
-    weight: 6
+    weight: 4
   it:
     languageName: Italian
-    weight: 7
-  cn:
-    languageName: 中文
-    weight: 8
+    weight: 5
 
 # Allow raw html in markdown file
 markup:
