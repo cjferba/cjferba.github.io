@@ -16,11 +16,11 @@ degrees:
   institution:
     name: University of Granada
     url: "www.ugr.es"
-  grade: summa cum laude
-    scale: Score #(optional)
-    achieved: 10 #(optional)
-    outOf: 10 #(optional)
-  publications: #(optional)
+  grade: #(optional)summa cum laude
+    scale: Score 
+    achieved: summa cum laude
+    outOf:  -
+  publications:
   - title: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
     url: "https://ieeexplore.ieee.org/abstract/document/9085888/"
   - title: A probabilistic algorithm for predictive control with full-complexity models in non-residential buildings
