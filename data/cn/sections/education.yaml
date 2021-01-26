@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: 学历
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,16 +10,16 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Computer Science
-  icon: fa-robot
-  timeframe: 2015-2020
+- name: Ph.D in Quantum Cryptography
+  icon: fa-microscope
+  timeframe: 2016-2020
   institution:
-    name: University of Granada
+    name: ABC University of Technology
     url: "#"
   grade: #(optional)
-    scale: Score
-    achieved: 4 
-    outOf: 4 (Cum laude)
+    scale: CGPA
+    achieved: 3.6
+    outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"

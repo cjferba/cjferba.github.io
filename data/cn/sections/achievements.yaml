@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Teaching
+  name: 成就
   id: achievements
   enable: true
   weight: 7
@@ -10,7 +10,7 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Operation system
+- title: Best Presenter
   image: /images/sections/achievements/presenter.jpg
   summary: Best presenter in the 2020 XYZ conference.
 - title: Champion
