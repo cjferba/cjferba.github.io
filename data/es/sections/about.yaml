@@ -1,72 +1,72 @@
 # section information
 section:
-  name: About
-  id: about
+  name: Sobre mi
+  id: Sobre mi
   enable: true
   weight: 1
   showOnNavbar: true
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Cientifico de datos
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Universidad de Granada
+  url: "https://www.ugr.es"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-
+summary: 'Soy un apasionado investigador centrado en apliciones de inteligencia artificial al mundo real. Mis apliciones extraen conocimiento oculto de grandes conjuntos de datos en aplicaciones como eficiencia energetica y ciber-crimen. También doy clases en la universidad sobre sistemas operativos, diseño gráfico... A veces, trabajo en algunos proyectos divertidos como desafios de kaggle, etc.'
+  
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "cjferba@decsai.ugr.es"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/cjferba"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
   url: "#"
 
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackexchange.com/users/2919799/cjferba"
+
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/cjferba/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+  url: "https://twitter.com/cjferba?lang=es"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Liderazgo
   percentage: 85
   color: blue
-- name: Team Work
+- name: Trabajo en equipo
   percentage: 90
   color: yellow
-- name: Communication
+- name: Comunicación
   percentage: 85
   color: pink
-- name: Hard Working
+- name: Trabajo duro
   percentage: 85
   color: green
-- name: Fast Learner
+- name: Facil aprendizaje
   percentage: 85
   color: sky
-- name: Problem Solving
+- name: Solucion de problemas
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name

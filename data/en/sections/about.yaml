@@ -18,18 +18,22 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate researcher focused on applying artificial intelligence to real-world applications.  My applications extract hidden knowledge from large datasets in applications like energy efficiency and cyber-crime. help people deploy their workloads on Kubernetes.  I also teach at the university about operating systems, graphic design... Sometimes, I work on some fun projects like kaggle competitions, etc.'
+summary: 'I am a passionate researcher focused on applying artificial intelligence to real-world applications.  My applications extract hidden knowledge from large datasets in applications like energy efficiency and cyber-crime. I also teach at the university about operating systems, graphic design... Sometimes, I work on some fun projects like kaggle competitions, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "cjferba@decsai.ugr.es"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/cjferba"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -42,7 +46,7 @@ socialLinks:
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/cjferba?lang=es"
-
+  
 #- name: Facebook
  # icon: "fab fa-facebook"
   #url: "#"
