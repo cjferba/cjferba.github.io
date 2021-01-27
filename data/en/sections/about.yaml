@@ -31,9 +31,17 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/cjferba"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+- name: ORCID
+  icon: "fab fab fa-orcid"
+  url: "https://orcid.org/0000-0002-8809-8676"
+
+- name: Researchgate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Carlos-Fernandez-Basso"
+
+- name: Pubblons
+  icon: "ai ai-google-scholar-square"
+  url: "https://publons.com/researcher/1595122/carlos-fernandez-basso/"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
