@@ -21,6 +21,15 @@ buttons:
 
 # your projects
 projects:
+- name: Copkit EU
+  logo: /images/sections/projects/copkit.png
+  role: Contributor
+  timeline: "Nov 2018 - 2021"
+  url: https://www.copkit.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The COPKIT project focuses on the problem of analysing, investigating, mitigating and preventing the use of new information and communication technologies by organised crime and terrorist groups. For this purpose, COPKIT proposes an intelligence-led Early Warning (EW) / Early Action (EA) system for both strategic and operational levels.
+  tags: ["professional", "ciber-crime", "EU project"]
+
 - name: EnergyInTime
   logo: /images/sections/projects/EiT.png
   role: Contributor
@@ -29,6 +38,8 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: The aim of the project is to develop a Smart Energy Simulation Based Control method which will reduce the energy consumption in the operational stage of existing non-residential buildings, resulting in energy savings of up to 20%.
   tags: ["professional", " energy efficiency", "EU project"]
+
+
 
 #- name: Tensorflow
 #  logo: /images/sections/projects/tensorflow.png
