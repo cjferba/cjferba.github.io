@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: Artificial Inteligence in Energy efficiency
 menu:
   sidebar:
-    name: বিভাগ
+    name: Category
     identifier: category
     weight: 20
 ---
