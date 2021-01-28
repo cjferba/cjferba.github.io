@@ -5,8 +5,8 @@ kaggle: /posts/kaggle-challanges/kaggle.svg
 description: Markdown rendering samples
 menu:
   sidebar:
-    name: Markdown Sample
-    identifier: markdown
+    name: Otto
+    identifier: Otto
     weight: 30
 author:
   name: Carlos Fernandez-Basso
