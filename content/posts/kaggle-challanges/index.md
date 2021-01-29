@@ -1,16 +1,16 @@
 ---
-title: "Markdown Samples"
+title: "Otto"
 date: 2020-06-08T08:06:25+06:00
-hero: /posts/markdown-sample/hero.svg
-description: Markdown rendering samples
+kaggle: /posts/kaggle-challanges/kaggle.svg
+description: Otto
 menu:
   sidebar:
-    name: Markdown Sample
-    identifier: markdown
+    name: Otto
+    identifier: Otto
     weight: 30
 author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
+  name: Carlos Fernandez-Basso
+  image: /images/author/carlos.png
 math: true
 ---
 
@@ -21,6 +21,7 @@ This is a sample post intended to test the followings:
 - Markdown content rendering.
 - Math rendering.
 - Emoji rendering.
+
 
 ---
 # Markdown Syntax Rendering

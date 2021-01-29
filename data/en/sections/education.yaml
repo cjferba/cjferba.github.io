@@ -107,14 +107,14 @@ degrees:
 
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2009-2015
   institution:
-    name: University of XYZ
-    url: "#"
+    name: University of Granada
+    url: "www.ugr.es"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    achieved: 7.4
+    outOf: 10
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
