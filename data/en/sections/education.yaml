@@ -29,6 +29,39 @@ degrees:
     url: "https://www.sciencedirect.com/science/article/pii/S0950705118304775"
   - title: Extraction of association rules using big data technologies
     url: "https://www.witpress.com/elibrary/dne/11/3/1189"
+- name: Executive Program in Big Data & Business Analytics
+  icon: fa-user-graduate
+  timeframe: 2016-2016
+  institution:
+    name: Escuela de Organización Industrial
+    url: "www.eoi.es"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 4
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Introduction and strategy
+      achieved: 4
+      outOf: 4
+    - name: Integration of the new data
+      achieved: 4
+      outOf: 4
+    - name: Information analysis
+      achieved: 4
+      outOf: 4
+    - name: Predictive modelling
+      achieved: 4
+      outOf: 4
+    - name: Use case and applications
+      achieved: 4
+      outOf: 4
+  publications: #(optional)
+  - title: Best Project Award
+    url: "#"
+
 - name: Master in Big Data and Data Science
   icon: fa-user-graduate
   timeframe: 2015-2016
@@ -60,6 +93,18 @@ degrees:
     url: "https://digibug.ugr.es/handle/10481/63902"
   extracurricularActivities: #(optional)
   - Kaggle challange Otto (77/3507)
+
+- name: Programa de Creación de Empresas de Base Tecnólogica
+  icon: fa-university
+  timeframe: 2015-2015
+  institution:
+    name: Escuela de Organización Industrial
+    url: "www.eoi.es"
+  grade: #(optional)
+    scale: score
+    achieved: 10
+    outOf: 10
+
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016
@@ -74,49 +119,26 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     courses:
+
     - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
+      achieved: 8
+      outOf: 10
+    - name: Programming(Python, Java, Php, C++)
+      achieved: 8.5
+      outOf: 10
     - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+      achieved: 7.8
+      outOf: 10
+    - name: Databases (MySQL, MongoDB, Oracle)
+      achieved: 9
+      outOf: 10
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  - title: Analytics tool for Big Data applied to massive data sources
+    url: "https://es.slideshare.net/secret/F8UdjAMOsRtb0F"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  - Data Hackathon 
+  - Software development course
+  - Swimming Club
+  - Cyclists' Club
+
+

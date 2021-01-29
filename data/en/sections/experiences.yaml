@@ -27,38 +27,51 @@ experiences:
     - Implementing visualisation tools for massive datasets.
     - Application of artificial intelligence algorithms for cybercrime and cybercrime projects.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+
+  - designation: Data Science
+    start: Dic 2017
+    end: Mar 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Development of knowledge extraction algorithms using distributed computation with Spark, hadoop and NoSQL databases (Mongodb).
+    - Big Data cluster management (Cloudera)
+    - Extraction of information in large datasets with the use of machine learning tools for energy efficiency
+    - Project Intelligent data analysis for efficient energy management in distributed facilities
+
+
+
+  - designation: Scholarship introduction to research
+    start: Mar 2015
+    end: Nov 2015
+    responsibilities:
+    - Implementing Big Data analytic processes by fuzzy association rules using MapReduce and Spark technology.
+
+  - designation: Collaboration scholarship
+    start: Oct 2013
+    end: Jun 2014
+    responsibilities:
+    - Analysis tool Big Data applied to massive datasets
+
+  - designation: Junior Software Engineer
+    start: Mar 2013
+    end: Aug 2013
+    responsibilities:
+    - Design and management of a Web in PHP and MySQL with jquery ajax
 
 - company:
     name: Imperial College London
-    url: "https://www"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    url: "https://www.imperial.ac.uk/"
+    location: London
+    overview: Ranked 9th in the world in the QS World University Rankings 2020.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Visiting Research Fellow
+    start: Sep 2018
+    end: Jan 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Development of artificial intelligence tools for energy efficiency
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Visiting Research Fellow
+    start: Oct 2017
+    end: Jan 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Development of visualization techniques in environments with massive data sets (Big Data)
+
