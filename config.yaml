@@ -14,15 +14,6 @@ languages:
   es:
     languageName: Spanish
     weight: 2
-  fr:
-    languageName: Français
-    weight: 3
-  de:
-    languageName: Deutsch
-    weight: 4
-  it:
-    languageName: Italian
-    weight: 5
 
 # Allow raw html in markdown file
 markup:
