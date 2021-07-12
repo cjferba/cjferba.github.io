@@ -2,7 +2,7 @@
 title: Sub-Category
 menu:
   sidebar:
-    name: উপ-বিভাগ
+    name: sub-category
     identifier: sub-category
     parent: category
     weight: 10
