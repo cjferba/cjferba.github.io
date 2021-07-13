@@ -40,7 +40,7 @@ projects:
   tags: ["professional", " energy efficiency", "EU project"]
 
 - name: BIGDATAMED
-  logo: /images/sections/projects/EiT.png
+  logo: /images/sections/projects/BigDatamed.png
   role: Contributor
   timeline: "Nov 2020 - 2021"
   #url: https://www.energyintime.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -48,7 +48,16 @@ projects:
   summary: "Data analysis in medicine: from medical records to Big Data."
   tags: ["professional", "health", "National project"]
 
+- name: PROFICIENT
+  logo: /images/sections/projects/Proficient.png
+  role: Contributor
+  timeline: "Nov 2018 - 2021"
+  url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Deep Learning for Energy-Efficient Building Control\\Buildings account for more than one-third of the worldwide energy consumption, and they are an equally important source of CO2 emissions. A critical task to improve energy efficiency is to adapt HVAC (heat, ventilation, and air-conditioning) equipment operation to energy demand, minimizing consumption while keeping occupants comfortable. Model-predictive control (MPC) approaches have proved successful to generate HVAC operational control plans, but they still present several drawbacks: they require constructing a detailed physical model of each building, which implies a considerable effort, and have important performance limitations, which strongly limit the opportunities for implementing new intelligent optimization procedures.
 
+PROFICIENT aims at solving these issues by developing novel deep reinforcement learning techniques capable of: (1) learning a more efficient predictive model of the building from sensor data; and (2) optimizing the computation of operational plans without using heuristic knowledge."
+  tags: ["professional", "health", "National project"]
 
 
 #- name: Tensorflow
