@@ -64,12 +64,9 @@ and (2) optimizing the computation of operational plans without using heuristic 
   logo: /images/sections/projects/Proficient.png
   role: Contributor
   timeline: "Nov 2016 - 2018"
-  url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: "Deep Learning for Energy-Efficient Building Control\n
-PROFICIENT  developing novel deep reinforcement learning techniques capable of: 
-(1) learning a more efficient predictive model of the building from sensor data; 
-and (2) optimizing the computation of operational plans without using heuristic knowledge."
+  summary: "Application of data mining and artificial intelligence techniques to sensorised buildings to improve maintenance and energy efficiency."
   tags: ["professional", "Energy", "National project"]
 
 #- name: Tensorflow
