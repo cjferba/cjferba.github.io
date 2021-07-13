@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Cientifico de datos
+designation: Investigador postdoctoral
 # your company information
 company:
   name: Universidad de Granada
