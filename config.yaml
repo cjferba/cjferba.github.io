@@ -22,7 +22,7 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 8
     ordered: false
 
 # Enable Google Analytics
