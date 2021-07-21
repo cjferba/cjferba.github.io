@@ -17,20 +17,39 @@ experiences:
     # company overview
     overview: The University of Granada is a world top university in data science and computer science.
   positions:
-  - designation: Data scientist 
-    start: Nov 2019
+  - designation: Temporary substitute teacher  
+    start: Sep 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - Teaching staff of the Department of Computer Languages and Systems
+    - Subjects: Operating systems, multimedia and interactive creation and architecture-based visualisation and presentation techniques.
+  
+  - designation: Senior Data scientist 
+    start: Mar 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: May 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Development of AI tools for cyber security, cyber crime.
+    - Creation and design of Big Data tools for the implementation of decision support systems for police and security forces.
+    - Application of artificial intelligence algorithms for texts, social networks, deep web.
+
+  - designation: Data scientist 
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Mar 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
     - Designing big data algorithms to improve energy efficiency in non-residential buildings.
     - Implementing visualisation tools for massive datasets.
-    - Application of artificial intelligence algorithms for cybercrime and cybercrime projects.
+    - Application of artificial intelligence algorithms for cybercrime projects.
 
 
   - designation: Data Science
     start: Dic 2017
-    end: Mar 2019
+    end: Nov 2019
     responsibilities:
     - Development of knowledge extraction algorithms using distributed computation with Spark, hadoop and NoSQL databases (Mongodb).
     - Big Data cluster management (Cloudera)
@@ -74,4 +93,14 @@ experiences:
     end: Jan 2018
     responsibilities:
     - Development of visualization techniques in environments with massive data sets (Big Data)
+- company:
+    name: Universidad Nacional Internacional de la Rioja (UNIR)
+    url: "https://www.unir.net/"
+    location: Online
+    overview: The International University of La Rioja is a private Spanish online education university, with headquarters in Logroño and presence in Mexico, Colombia, Ecuador and Peru. In mid-2020 it had more than 48,000 students in official studies, of which more than 17,000 are international.
+  positions:
+  - designation: Educational content creator
+    start: Dic 2020
+    responsibilities:
+    - Development of syllabus and multimedia content for subjects such as fundamentals of programming for the degree in video game design and creation.
 
