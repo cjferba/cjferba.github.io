@@ -8,6 +8,6 @@ description: Portfolio y blog personal de Carlos Fernandez-Basso.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: ARMxtend
-  url: https://cjferba.github.com/ARMxtend/
+  url: https://cjferba.github.io/ARMxtend/
 - name: TSxtend
   url: https://github.com/ugritlab/TSxtend
