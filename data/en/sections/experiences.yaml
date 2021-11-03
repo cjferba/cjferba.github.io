@@ -79,8 +79,7 @@ experiences:
       location: London
       overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
       positions:
-        # company overview
-      - designation: Full stack developer
+        - designation: Full stack developer
           start: Sep 2021
           # don't provide end date if you are currently working there. It will be replaced by "Present"
           # end:
