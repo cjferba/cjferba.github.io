@@ -76,17 +76,19 @@ experiences:
     - company:
       name: SiftyML.
       url: "http://siftyml.com"
-      location: London,  UK
+      location: London
+      overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
+      positions:
         # company overview
-                  - designation: Full stack developer
-                  start: Oct 2021
-        # don't provide end date if you are currently working there. It will be replaced by "Present"
-                  end:
-        # give some points about what was your responsibilities at the company.
-                  responsibilities:
-                    - Design of the backend structure of the application.
-                    - Database management and creation of connection apis.
-                    - Creation of processing  and machine learning workflows.
+      - designation: Full stack developer
+          start: Oct 2021
+          # don't provide end date if you are currently working there. It will be replaced by "Present"
+          end:
+          # give some points about what was your responsibilities at the company.
+          responsibilities:
+            - Design of the backend structure of the application.
+            - Database management and creation of connection apis.
+            - Creation of processing  and machine learning workflows.
 
 
     - company:
