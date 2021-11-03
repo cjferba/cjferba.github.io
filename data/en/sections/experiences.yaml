@@ -10,6 +10,7 @@ section:
 
 # Your experiences
 experiences:
+<<<<<<< HEAD
   - company:
       name: University of Granada.
       url: "https://www.ugr.es"
@@ -25,6 +26,48 @@ experiences:
           responsibilities:
             - Teaching staff of the Department of Computer Languages and Systems
             - Subjects Operating systems, multimedia and interactive creation and architecture-based visualisation and presentation techniques.
+=======
+- company:
+    name: University of Granada.
+    url: "https://www.ugr.es"
+    location: Granada, Spain
+    # company overview
+    overview: The University of Granada is a world top university in data science and computer science.
+  positions:
+  - designation: Temporary substitute teacher  
+    start: Sep 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Teaching staff of the Department of Computer Languages and Systems
+    - Subjects Operating systems, multimedia and interactive creation and architecture-based visualisation and presentation techniques.
+  
+  - designation: Senior Data scientist 
+    start: Mar 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: May 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Development of AI tools for cyber security, cyber crime.
+    - Creation and design of Big Data tools for the implementation of decision support systems for police and security forces.
+    - Application of artificial intelligence algorithms for texts, social networks, deep web.
+- company:
+    name: SiftyML.
+    url: "http://siftyml.com"
+    location: London,  UK
+    # company overview
+  - designation: Full stack developer
+    start: Oct 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end:
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design of the backend structure of the application.
+    - Database management and creation of connection apis.
+    - Creation of processing  and machine learning workflows.
+
+>>>>>>> source
 
         - designation: Senior Data scientist
           start: Mar 2019
