@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -72,21 +72,7 @@ experiences:
             end: Aug 2013
             responsibilities:
               - Design and management of a Web in PHP and MySQL with jquery ajax
-    - company:
-        name: SiftyML.
-        url: "www.siftyml.com"
-        location: London
-        overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
-        positions:
-        - designation: Full stack developer
-          start: Sep 2021
-          # don't provide end date if you are currently working there. It will be replaced by "Present"
-          # end:
-          # give some points about what was your responsibilities at the company.
-          responsibilities:
-            - Design of the backend structure of the application.
-            - Database management and creation of connection apis.
-            - Creation of processing  and machine learning workflows.
+
     - company:
         name: Imperial College London
         url: "https://www.imperial.ac.uk/"
