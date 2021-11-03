@@ -81,9 +81,9 @@ experiences:
       positions:
         # company overview
       - designation: Full stack developer
-          start: Oct 2021
+          start: Sep 2021
           # don't provide end date if you are currently working there. It will be replaced by "Present"
-          end:
+          # end:
           # give some points about what was your responsibilities at the company.
           responsibilities:
             - Design of the backend structure of the application.
