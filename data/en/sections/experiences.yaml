@@ -35,23 +35,7 @@ experiences:
     - Development of AI tools for cyber security, cyber crime.
     - Creation and design of Big Data tools for the implementation of decision support systems for police and security forces.
     - Application of artificial intelligence algorithms for texts, social networks, deep web.
-- company:
-    name: SiftyML.
-    url: "http://siftyml.com"
-    location: London,  UK
-    # company overview
-  - designation: Full stack developer
-    start: Oct 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end:
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design of the backend structure of the application.
-    - Database management and creation of connection apis.
-    - Creation of processing  and machine learning workflows.
-
-
-  - designation: Data scientist 
+  - designation: Data scientist
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Mar 2019
@@ -70,9 +54,6 @@ experiences:
     - Big Data cluster management (Cloudera)
     - Extraction of information in large datasets with the use of machine learning tools for energy efficiency
     - Project Intelligent data analysis for efficient energy management in distributed facilities
-
-
-
   - designation: Scholarship introduction to research
     start: Mar 2015
     end: Nov 2015
@@ -90,6 +71,21 @@ experiences:
     end: Aug 2013
     responsibilities:
     - Design and management of a Web in PHP and MySQL with jquery ajax
+
+- company:
+    name: SiftyML.
+    url: "http://siftyml.com"
+    location: London,  UK
+    # company overview
+  - designation: Full stack developer
+    start: Oct 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design of the backend structure of the application.
+    - Database management and creation of connection apis.
+    - Creation of processing  and machine learning workflows.
 
 - company:
     name: Imperial College London
