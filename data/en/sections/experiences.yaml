@@ -93,7 +93,7 @@ company:
     name: Imperial College London2
     url: "https://www.imperial.ac.uk/"
     location: London
-    overview: Ranked 9th in the world in the QS World University Rankings 2020.
+    overview: Ranked 9th in the world in the QS World.
   positions:
   - designation: Visiting Research Fellow
     start: Sep 2018
@@ -101,7 +101,7 @@ company:
     responsibilities:
     - Development of artificial intelligence tools for energy efficiency
 
-  - designation: Visiting Research Fe
+
 - company:
     name: Imperial College London
     url: "https://www.imperial.ac.uk/"
