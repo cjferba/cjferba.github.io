@@ -114,4 +114,14 @@ experiences:
         start: Dic 2020
         responsibilities:
           - Development of syllabus and multimedia content for subjects such as fundamentals of programming for the degree in video game design and creation.
+  - company:
+      name: SiftyML.
+      url: "https://www.unir.net/"
+      location: Online
+      overview: The International University of La Rioja is a private Spanish online education university, with headquarters in Logroño and presence in Mexico, Colombia, Ecuador and Peru. In mid-2020 it had more than 48,000 students in official studies, of which more than 17,000 are international.
+    positions:
+      - designation: Educational content creator
+        start: Dic 2020
+        responsibilities:
+          - Development of syllabus and multimedia content for subjects such as fundamentals of programming for the degree in video game design and creation.
 
