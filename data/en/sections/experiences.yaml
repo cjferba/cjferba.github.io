@@ -88,6 +88,20 @@ experiences:
 #    - Database management and creation of connection apis.
 #    - Creation of processing  and machine learning workflows.
 
+
+company:
+    name: Imperial College London2
+    url: "https://www.imperial.ac.uk/"
+    location: London
+    overview: Ranked 9th in the world in the QS World University Rankings 2020.
+  positions:
+  - designation: Visiting Research Fellow
+    start: Sep 2018
+    end: Jan 2018
+    responsibilities:
+    - Development of artificial intelligence tools for energy efficiency
+
+  - designation: Visiting Research Fe
 - company:
     name: Imperial College London
     url: "https://www.imperial.ac.uk/"
