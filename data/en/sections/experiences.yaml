@@ -73,9 +73,13 @@ experiences:
     - Design and management of a Web in PHP and MySQL with jquery ajax
 
 - company:
+
+
     name: SiftyML.
     url: "http://siftyml.com"
-    location: London,  UK
+    location: London
+    overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
+    positions:
  - designation: Full stack developer
     start: Oct 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
