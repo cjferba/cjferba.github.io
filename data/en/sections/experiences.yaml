@@ -31,6 +31,9 @@ experiences:
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         end: May 2021
         # give some points about what was your responsibilities at the company.
+        publications:
+          - title: Big Data Architecture for Building Energy Management Systems
+            url: "https://ieeexplore.ieee.org/abstract/document/9085888/"
         responsibilities:
           - Development of AI tools for cyber security, cyber crime.
           - Creation and design of Big Data tools for the implementation of decision support systems for police and security forces.
