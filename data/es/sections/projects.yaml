@@ -21,44 +21,73 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
+- name: Copkit EU
+  logo: /images/sections/projects/copkit.png
   role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  timeline: "Nov 2018 - 2021"
+  url: https://www.copkit.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: The COPKIT project focuses on the problem of analysing, investigating, mitigating and preventing the use of new information and communication technologies by organised crime and terrorist groups. For this purpose, COPKIT proposes an intelligence-led Early Warning (EW) / Early Action (EA) system for both strategic and operational levels.
+  tags: ["professional", "ciber-crime", "EU project"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+- name: EnergyInTime
+  logo: /images/sections/projects/EiT.png
+  role: Contributor
+  timeline: "Nov 2015 - 2017"
+  url: https://www.energyintime.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The aim of the project is to develop a Smart Energy Simulation Based Control method which will reduce the energy consumption in the operational stage of existing non-residential buildings, resulting in energy savings of up to 20%.
+  tags: ["professional", "Energy", "EU project"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: BIGDATAMED
+  logo: /images/sections/projects/BigDatamed.png
+  role: Contributor
+  timeline: "Nov 2020 - 2021"
+  #url: https://www.energyintime.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Data analysis in medicine: from medical records to Big Data."
+  tags: ["professional", "health", "National project"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: PROFICIENT
+  logo: /images/sections/projects/Proficient.png
+  role: Contributor
+  timeline: "Nov 2018 - 2021"
+  url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Deep Learning for Energy-Efficient Building Control\n
+PROFICIENT  developing novel deep reinforcement learning techniques capable of:
+(1) learning a more efficient predictive model of the building from sensor data;
+and (2) optimizing the computation of operational plans without using heuristic knowledge."
+  tags: ["professional", "Energy", "National project"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Intelligent data analytics for energy efficiency management in distributed installations
+  logo: /images/sections/projects/Proficient.png
+  role: Contributor
+  timeline: "Nov 2016 - 2018"
+  #url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Application of data mining and artificial intelligence techniques to sensorised buildings to improve maintenance and energy efficiency."
+  tags: ["professional", "Energy", "National project"]
+
+
+- name: Finding tendencies in streaming data using big data frequent itemset mining
+  role: Author
+  timeline: "Jan 2019"
+  url: "https://www.sciencedirect.com/science/article/pii/S0950705118304775"
+  summary: The amount of information generated in social media channels or economical/business transactions exceeds the usual bounds of static databases and is in continuous growing. In this work, we propose a frequent itemset mining method using sliding windows capable of extracting tendencies from continuous data flows. For that aim, we develop this method using Big Data technologies, in particular, using the Spark Streaming framework enabling distributing the computation along several clusters and thus improving the algorithm speed. The experimentation carried out shows the capability of our proposal and its scalability when massive amounts of data coming from streams are taken into account.
+  tags: ["academic","Streaming","FIM", "Big Data"]
+
+- name: A Probabilistic Algorithm for Predictive Control With Full-Complexity Models in Non-Residential Buildings
+  role: Author
+  timeline: "Mar 2019"
+  url: "https://ieeexplore.ieee.org/abstract/document/8669762"
+  summary: Despite the increasing capabilities of information technologies for data acquisition and processing, building energy management systems still require manual configuration and supervision to achieve optimal performance. Model predictive control (MPC) aims to leverage equipment control-particularly heating, ventilation, and air conditioning (HVAC)-by using a model of the building to capture its dynamic characteristics and to predict its response to alternative control scenarios. Usually, MPC approaches are based on simplified linear models, which support faster computation but also present some limitations regarding interpretability, solution diversification, and longer-term optimization. In this paper, we propose a novel MPC algorithm that uses a full-complexity grey-box simulation model to optimize HVAC operation in non-residential buildings. Our system generates hundreds of candidate operation plans, typically …
+  tags: ["academic","Buildings","Computational modeling", "Predictive models", "Biological system modeling", "HVAC", "Data models", "Optimization"]
+
+- name: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
+  role: Author
+  timeline: "May 2020"
+  url: "https://ieeexplore.ieee.org/abstract/document/9085888"
+  summary: The discovery and exploitation of hidden information in collected data have gained attention in many areas, particularly in the energy field due to their economic and environmental impact. Data mining techniques have then emerged as a suitable toolbox for analyzing the data collected in modern network management systems in order to obtain a meaningful insight into consumption patterns and equipment operation. However, the enormous amount of data generated by sensors, occupational, and meteorological data involve the use of new management systems and data processing. Big Data presents great opportunities for implementing new solutions to manage these massive data sets. In addition, these data present values whose nature complicates and hides the understanding and interpretation of the data and results. Therefore, the use of fuzzy methods to adequately transform the data can improve their interpretability. This article presents an automatic fuzzification method implemented using the Big Data paradigm, which enables, in a later step, the detection of interrelations and patterns among different sensors and weather data recovered from an office building.
+  tags: ["academic","Buildings","Data mining", "Sensors", "Big Data", "Itemsets", "Linguistics"]
+
