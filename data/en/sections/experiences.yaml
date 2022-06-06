@@ -10,7 +10,7 @@ section:
 
 # Your experiences
 experiences:
-    - company:
+  - company:
       name: University College London.
       url: "https://www.ucl.ac.uk/"
       location: London, UK
@@ -24,7 +24,10 @@ experiences:
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Research on automatic blame detection using NLP
-          - Explainable AI. 
+          - Explainable AI.
+        publications:
+          - title: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
+            url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538" 
   - company:
       name: University of Granada.
       url: "https://www.ugr.es"
@@ -35,7 +38,7 @@ experiences:
       - designation: Temporary substitute teacher
         start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        end: 31 Dic
+        end: Dic 2021
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Teaching staff of the Department of Computer Languages and Systems
