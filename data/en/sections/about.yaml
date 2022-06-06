@@ -11,8 +11,8 @@ section:
 designation: Postdoctoral Researcher
 # your company information
 company:
-  name: University of Granada
-  url: "https://www.ugr.es"
+  name: University College London
+  url: "https://www.ucl.ac.uk"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
