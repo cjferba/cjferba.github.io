@@ -69,6 +69,13 @@ and (2) optimizing the computation of operational plans without using heuristic 
   summary: "Application of data mining and artificial intelligence techniques to sensorised buildings to improve maintenance and energy efficiency."
   tags: ["professional", "Energy", "National project"]
 
+- name: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
+  role: Author
+  timeline: "Jun 2022"
+  url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538"
+  summary: In this paper we have addressed the extraction of hidden knowledge from medical records using data mining techniques such as association rules in conjunction with fuzzy logic in a distributed environment. A significant challenge in this domain is that although there are a lot of studies devoted to analysing health data, very few focus on the understanding and interpretability of the data and the hidden patterns present within the data. A major challenge in this area is that many health data analysis studies have focussed on classification, prediction or knowledge extraction and end users find little interpretability or understanding of the results. This is due to the use of black-box algorithms or because the nature of the data is not represented correctly. This is why it is necessary to focus the analysis not only on knowledge extraction but also on the transformation and processing of the data to improve the modelling of the nature of the data. Techniques such as association rule mining and fuzzy logic help to improve the interpretability of the data and treat it with the inherent uncertainty of real-world data. To this end, we propose a system that automatically a) pre-processes the database by transforming and adapting the data for the data mining process and enriching the data to generate more interesting patterns, b) performs the fuzzification of the medical database to represent and analyse real-world medical data with its inherent uncertainty, c) discovers interrelations and patterns amongst different features (diagnostic, hospital discharge, etc.), and d) visualizes the obtained results efficiently to facilitate the analysis and improve the interpretability of the information extracted. Our proposed system yields a significant increase in the compression and interpretability of medical data for end-users, allowing them to analyse the data correctly and make the right decisions. We present one practical case using two health-related datasets to demonstrate the feasibility of our proposal for real data.
+  tags: ["academic","health", "Big Data"]
+
 
 - name: Big Data Architecture for Building Energy Managament Systems
   role: Author

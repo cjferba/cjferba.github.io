@@ -10,6 +10,21 @@ section:
 
 # Your experiences
 experiences:
+    - company:
+      name: University College London.
+      url: "https://www.ucl.ac.uk/"
+      location: London, UK
+      # company overview
+      overview: UCL was rated 2nd in the UK for research power in the Research Excellence Framework 2021. UCL is ranked 8th in the 2022 QS World University Rankings. There have been 30 Nobel Prize laureates amongst UCL’s alumni and current and former staff to date.
+    positions:
+      - designation: Postdoctoral Fellowship
+        start: Jan 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: "Present"
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Research on automatic blame detection using NLP
+          - Explainable AI. 
   - company:
       name: University of Granada.
       url: "https://www.ugr.es"
@@ -20,7 +35,7 @@ experiences:
       - designation: Temporary substitute teacher
         start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        end: "Present"
+        end: 31 Dic
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Teaching staff of the Department of Computer Languages and Systems
