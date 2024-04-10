@@ -10,6 +10,25 @@ section:
 
 # Your experiences
 experiences:
+ - company:
+      name: University of Jaen.
+      url: "https://www.ujaen.es/"
+      location: Jaen, ES
+      # company overview
+      overview: The University of Jaen in Spain is renowned for its commitment to research excellence, fostering innovation across disciplines through state-of-the-art facilities and collaborative networks. Through strategic partnerships, it amplifies the impact of its research, contributing to societal progress and economic growth while addressing global challenges.
+      positions:
+      - designation: Postdoctoral Fellowship
+        start: Mar 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: "Present"
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Research on automatic activity detection in IoT
+          - Explainable AI
+        publications:
+          - title:  An AI knowledge‐based system for police assistance in crime investigation
+            url: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13524" 
+
   - company:
       name: University College London.
       url: "https://www.ucl.ac.uk/"
@@ -17,6 +36,18 @@ experiences:
       # company overview
       overview: UCL was rated 2nd in the UK for research power in the Research Excellence Framework 2021. UCL is ranked 8th in the 2022 QS World University Rankings. There have been 30 Nobel Prize laureates amongst UCL’s alumni and current and former staff to date.
     positions:
+    Research Collaborator
+     - designation: research collaborator
+        start: Mar 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: "Present"
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Research on automatic blame detection using NLP
+          - Explainable AI.
+        publications:
+          - title: Blame attribution in human-AI and human-only systems: Crowdsourcing judgments from Twitter
+            url: "https://escholarship.org/uc/item/24w52590" 
       - designation: Postdoctoral Fellowship
         start: Jan 2022
         # don't provide end date if you are currently working there. It will be replaced by "Present"
