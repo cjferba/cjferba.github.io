@@ -20,7 +20,7 @@ experiences:
       - designation: Postdoctoral Fellowship
         start: Mar 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        end: "Present"
+        end: Oct 2024
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Research on automatic activity detection in IoT
@@ -66,6 +66,17 @@ experiences:
       # company overview
       overview: The University of Granada is a world top university in data science and computer science.
     positions:
+- designation: Associate Professor 
+    start: Oct 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Professor in the Department of Computer Science in Artificial Intelligence
+    - Subjects Information Systems Design and Development, Intelligent Data Processing 
+
+
+     
       - designation: Temporary substitute teacher
         start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
