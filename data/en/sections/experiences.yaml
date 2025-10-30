@@ -27,17 +27,15 @@ experiences:
           - Explainable AI
         publications:
           - title:  An AI knowledge‐based system for police assistance in crime investigation
-            url: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13524" 
-
-  - company:
+            url: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13524"
+ - company:
       name: University College London.
       url: "https://www.ucl.ac.uk/"
       location: London, UK
       # company overview
       overview: UCL was rated 2nd in the UK for research power in the Research Excellence Framework 2021. UCL is ranked 8th in the 2022 QS World University Rankings. There have been 30 Nobel Prize laureates amongst UCL’s alumni and current and former staff to date.
-    positions:
-    Research Collaborator
-     - designation: research collaborator
+      positions:
+      - designation: research collaborator
         start: Mar 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         end: "Present"
@@ -46,7 +44,7 @@ experiences:
           - Research on automatic blame detection using NLP
           - Explainable AI.
         publications:
-          - title: Blame attribution in human-AI and human-only systems: Crowdsourcing judgments from Twitter
+          - title: Blame attribution in human-AI and human-only systems- Crowdsourcing judgments from Twitter
             url: "https://escholarship.org/uc/item/24w52590" 
       - designation: Postdoctoral Fellowship
         start: Jan 2022
@@ -59,24 +57,22 @@ experiences:
         publications:
           - title: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
             url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538" 
-  - company:
+ - company:
       name: University of Granada.
       url: "https://www.ugr.es"
       location: Granada, Spain
       # company overview
       overview: The University of Granada is a world top university in data science and computer science.
-    positions:
-- designation: Associate Professor 
-    start: Oct 2024
+      positions:
+      - designation:  Associate Professor
+        start: Oct 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Professor in the Department of Computer Science in Artificial Intelligence
-    - Subjects Information Systems Design and Development, Intelligent Data Processing 
+        responsibilities:
+          - Professor in the Department of Computer Science in Artificial Intelligence
+          - Subjects Information Systems Design and Development, Intelligent Data Processing
 
-
-     
       - designation: Temporary substitute teacher
         start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
@@ -134,24 +130,24 @@ experiences:
         end: Aug 2013
         responsibilities:
           - Design and management of a Web in PHP and MySQL with jquery ajax
-  - company:
+ - company:
       name: SiftyML.
       url: "http://siftyml.com"
       location: London
       overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
-    positions:
+      positions:
       - designation: Full stack developer
         start: Dic 2020
         responsibilities:
           - Design of the backend structure of the application.
           - Database management and creation of connection apis.
           - Creation of processing  and machine learning workflows.
-  - company:
+ - company:
       name: Imperial College London
       url: "https://www.imperial.ac.uk/"
       location: London
       overview: Ranked 9th in the world in the QS World University Rankings 2020.
-    positions:
+      positions:
       - designation: Visiting Research Fellow
         start: Sep 2018
         end: Jan 2018
@@ -162,12 +158,12 @@ experiences:
         end: Jan 2018
         responsibilities:
           - Development of visualization techniques in environments with massive data sets (Big Data)
-  - company:
+ - company:
       name: Universidad Nacional Internacional de la Rioja (UNIR)
       url: "https://www.unir.net/"
       location: Online
       overview: The International University of La Rioja is a private Spanish online education university, with headquarters in Logroño and presence in Mexico, Colombia, Ecuador and Peru. In mid-2020 it had more than 48,000 students in official studies, of which more than 17,000 are international.
-    positions:
+      positions:
       - designation: Educational content creator
         start: Dic 2020
         responsibilities:

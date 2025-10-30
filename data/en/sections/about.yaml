@@ -8,11 +8,13 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Postdoctoral Researcher
+
+
+designation: Associate Professor
 # your company information
 company:
-  name: University College London
-  url: "https://www.ucl.ac.uk"
+  name: University of Granada
+  url: "https://www.ugr.es"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
