@@ -23,12 +23,6 @@ This sample post tests the followings:
 
 {{< vs >}}
 
-### Tweet Sample
-
-{{< twitter 1085870671291310081 >}}
-
-{{< vs >}}
-
 ### YouTube Video Sample
 
 {{< youtube ZJthWmvUzzc >}}
