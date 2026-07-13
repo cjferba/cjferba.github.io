@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cjferba</title><link>https://cjferba.github.io/posts/</link><description>Recent content in Posts on Cjferba</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://cjferba.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Otto</title><link>https://cjferba.github.io/posts/kaggle-challanges/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://cjferba.github.io/posts/kaggle-challanges/</guid><description>&lt;p&gt;This is a sample post intended to test the followings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A different post author.&lt;/li&gt;
+&lt;li&gt;Table of contents.&lt;/li&gt;
+&lt;li&gt;Markdown content rendering.&lt;/li&gt;
+&lt;li&gt;Math rendering.&lt;/li&gt;
+&lt;li&gt;Emoji rendering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="markdown-syntax-rendering"&gt;Markdown Syntax Rendering&lt;/h1&gt;
+&lt;h2 id="headings"&gt;Headings&lt;/h2&gt;
+&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
+&lt;h1 id="h1"&gt;H1&lt;/h1&gt;
+&lt;h2 id="h2"&gt;H2&lt;/h2&gt;
+&lt;h3 id="h3"&gt;H3&lt;/h3&gt;
+&lt;h4 id="h4"&gt;H4&lt;/h4&gt;
+&lt;h5 id="h5"&gt;H5&lt;/h5&gt;
+&lt;h6 id="h6"&gt;H6&lt;/h6&gt;
+&lt;h2 id="paragraph"&gt;Paragraph&lt;/h2&gt;
+&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description></item><item><title>Rich Content</title><link>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/sub-category/rich-content/</guid><description>&lt;p&gt;This sample post tests the followings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Category, sub-category nesting in the sidebar.&lt;/li&gt;
+&lt;li&gt;Hero image and other images are in &lt;code&gt;images&lt;/code&gt; folder inside this post directory.&lt;/li&gt;
+&lt;li&gt;Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="image-sample"&gt;Image Sample&lt;/h3&gt;
+&lt;img src="https://cjferba.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+class="center"
+&gt;
+&lt;div style="margin-top: rem;"&gt;&lt;/div&gt;
+&lt;h3 id="youtube-video-sample"&gt;YouTube Video Sample&lt;/h3&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style="margin-top: rem;"&gt;&lt;/div&gt;
+&lt;h3 id="vimeo-video-sample"&gt;Vimeo Video Sample&lt;/h3&gt;
+&lt;div
+style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe
+src="https://player.vimeo.com/video/48912912?dnt=0"
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allow="fullscreen"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;</description></item><item><title>Artificial Inteligence</title><link>https://cjferba.github.io/posts/artificial-inteligence/</link><pubDate>Mon, 08 Jun 2020 06:00:23 +0600</pubDate><guid>https://cjferba.github.io/posts/artificial-inteligence/</guid><description/></item><item><title>Artificial Inteligence in Energy efficiency</title><link>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/_index.es/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/_index.es/</guid><description/></item><item><title>POST TEST</title><link>https://cjferba.github.io/posts/_index.es/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjferba.github.io/posts/_index.es/</guid><description/></item><item><title>Sub-Category</title><link>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/sub-category/_index.es/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjferba.github.io/posts/artificial-inteligence-in-energy-efficiency/sub-category/_index.es/</guid><description/></item></channel></rss>
