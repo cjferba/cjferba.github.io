@@ -7,6 +7,12 @@ description: Portfolio y blog personal de Carlos Fernandez-Basso.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
+- name: Publicaciones
+  url: /publicaciones/
+- name: Docencia
+  url: /docencia/
+- name: Proyectos
+  url: /proyectos/
 - name: ARMxtend
   url: https://cjferba.github.io/ARMxtend/
 - name: TSxtend

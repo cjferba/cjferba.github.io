@@ -1,0 +1,12 @@
+# Datos de la página de Docencia.
+# Se rellenará cuando Carlos mande el listado real de asignaturas y TFG/TFM.
+# Esquema:
+#   courses: [{ name, level, institution, years: ["2024/25", ...] }]
+#   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
+
+page:
+  title: Docencia
+
+courses: []
+
+theses: []

@@ -1,0 +1,56 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+{{ end }}
+
+{{ define "navbar" }}
+  {{ partial "navigators/navbar.html" . }}
+{{ end }}
+
+{{ define "sidebar" }}{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" style="padding-top: 100px;">
+
+    {{ $citations := (index site.Data site.Language.Lang "citations") }}
+    {{ if not $citations }}
+      {{ $citations = site.Data.en.citations }}
+    {{ end }}
+    {{ if $citations }}
+    <div class="container-fluid section-holder d-flex bg-primary">
+      <div class="container-fluid anchor pb-5" id="citations">
+        <h1 class="text-center">Citation Metrics</h1>
+        <div class="container text-center mb-4">
+          <span class="badge btn-info me-2 p-2">{{ $citations.total_citations }} citations</span>
+          <span class="badge btn-info me-2 p-2">h-index {{ $citations.h_index }}</span>
+          <span class="badge btn-info p-2">i10-index {{ $citations.i10_index }}</span>
+        </div>
+        <div class="container" style="position: relative; height: 360px; max-width: 800px;">
+          <canvas id="citations-chart"></canvas>
+          <script type="application/json" id="citations-data">{{ $citations.citations_by_year | jsonify | safeJS }}</script>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+    <div class="container-fluid section-holder d-flex bg-secondary">
+      {{ $data := (index site.Data site.Language.Lang "sections" "publications") }}
+      {{ if not $data }}
+        {{ $data = index site.Data.sections "publications" }}
+      {{ end }}
+      {{ partial "sections/publications.html" $data }}
+    </div>
+
+  </div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $chart := resources.Get "scripts/pages/citations-chart.js" }}
+  {{ if $chart }}
+    {{ $chart = $chart | js.Build (dict "minify" hugo.IsProduction) }}
+    <script type="text/javascript" src="{{ $chart.RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
+
+{{ define "toc" }}{{ end }}

@@ -1,0 +1,78 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+{{ end }}
+
+{{ define "navbar" }}
+  {{ partial "navigators/navbar.html" . }}
+{{ end }}
+
+{{ define "sidebar" }}{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" style="padding-top: 100px;">
+
+    {{ $data := (index site.Data site.Language.Lang "teaching") }}
+    {{ if not $data }}
+      {{ $data = site.Data.en.teaching }}
+    {{ end }}
+
+    <div class="container-fluid section-holder d-flex bg-primary">
+      <div class="container-fluid anchor pb-5" id="teaching">
+        <h1 class="text-center">{{ $data.page.title }}</h1>
+
+        <h4 class="mt-4">Courses</h4>
+        {{ if $data.courses }}
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr><th>Course</th><th>Level</th><th>Institution</th><th>Years</th></tr>
+            </thead>
+            <tbody>
+              {{ range $data.courses }}
+              <tr>
+                <td>{{ .name }}</td>
+                <td>{{ .level }}</td>
+                <td>{{ .institution }}</td>
+                <td>{{ delimit .years ", " }}</td>
+              </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+        {{ else }}
+        <p class="text-muted">Coming soon.</p>
+        {{ end }}
+
+        <h4 class="mt-5">TFG / TFM / Theses supervised</h4>
+        {{ if $data.theses }}
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr><th>Title</th><th>Student</th><th>Type</th><th>Program</th><th>Year</th><th>Role</th></tr>
+            </thead>
+            <tbody>
+              {{ range $data.theses }}
+              <tr>
+                <td>{{ .title }}</td>
+                <td>{{ .student }}</td>
+                <td>{{ .type }}</td>
+                <td>{{ .program }}</td>
+                <td>{{ .year }}</td>
+                <td>{{ .role }}</td>
+              </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+        {{ else }}
+        <p class="text-muted">Coming soon.</p>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+</section>
+{{ end }}
+
+{{ define "toc" }}{{ end }}

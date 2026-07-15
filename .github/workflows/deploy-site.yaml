@@ -46,6 +46,11 @@ jobs:
         # dist/cytoscape.umd.js under the "import" condition, breaking
         # Hugo's JS bundling. Pin to a version known to work.
         npm install cytoscape@3.30.2 --no-save
+        # hugo mod npm pack doesn't reliably carry custom devDependencies
+        # from package.hugo.json into the generated package.json on this
+        # Hugo release, so install chart.js (used by the Publications
+        # citations chart) explicitly too.
+        npm install chart.js@4.4.0 --no-save
 
     - name: Build
       run: hugo --minify

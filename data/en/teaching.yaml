@@ -1,0 +1,12 @@
+# Teaching page data.
+# Filled in once Carlos sends the real courses / TFG-TFM list.
+# Schema:
+#   courses: [{ name, level, institution, years: ["2024/25", ...] }]
+#   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
+
+page:
+  title: Teaching
+
+courses: []
+
+theses: []

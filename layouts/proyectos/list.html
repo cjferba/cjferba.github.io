@@ -1,0 +1,25 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+{{ end }}
+
+{{ define "navbar" }}
+  {{ partial "navigators/navbar.html" . }}
+{{ end }}
+
+{{ define "sidebar" }}{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" style="padding-top: 100px;">
+    <div class="container-fluid section-holder d-flex bg-primary">
+      {{ $data := (index site.Data site.Language.Lang "sections" "projects") }}
+      {{ if not $data }}
+        {{ $data = index site.Data.sections "projects" }}
+      {{ end }}
+      {{ partial "sections/projects.html" $data }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "toc" }}{{ end }}
