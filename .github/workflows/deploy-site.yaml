@@ -39,13 +39,16 @@ jobs:
     - name: Install node modules
       run: |
         hugo mod npm pack
-        npm install
         # mermaid pulls in cytoscape for its mindmap diagram type. With no
         # lockfile committed, npm resolves the latest cytoscape, whose
         # package.json "exports" map no longer allows importing
         # dist/cytoscape.umd.js under the "import" condition, breaking
-        # Hugo's JS bundling. Pin to a version known to work.
-        npm install cytoscape@3.30.2 --no-save
+        # Hugo's JS bundling. Pin it via an override *before* the main
+        # install so npm's own resolution respects it from the start,
+        # instead of trying to patch it up with a follow-up install
+        # (which proved unreliable across runners).
+        npm pkg set overrides.cytoscape="3.30.2"
+        npm install
         # hugo mod npm pack doesn't reliably carry custom devDependencies
         # from package.hugo.json into the generated package.json on this
         # Hugo release, so install chart.js (used by the Publications
