@@ -42,7 +42,7 @@ projects:
 - name: BIGDATAMED
   logo: /images/sections/projects/BigDatamed.png
   role: Contributor
-  timeline: "Nov 2020 - 2021"
+  timeline: "Nov 2020 - 2023"
   #url: https://www.energyintime.eu/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: "Data analysis in medicine: from medical records to Big Data."
@@ -63,31 +63,43 @@ and (2) optimizing the computation of operational plans without using heuristic 
 - name: Intelligent data analytics for energy efficiency management in distributed installations
   logo: /images/sections/projects/Proficient.png
   role: Contributor
-  timeline: "Nov 2016 - 2018"
+  timeline: "Nov 2016 - 2019"
   #url: https://jgromero.github.io/proficient/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: "Application of data mining and artificial intelligence techniques to sensorised buildings to improve maintenance and energy efficiency."
   tags: ["professional", "Energy", "National project"]
 
+- name: CUSTOMAI
+  role: Contributor
+  timeline: "Actual"
+  url: "https://produccioncientifica.ugr.es/investigadores/453606/proyectos"
+  summary: "Tecnologías de IA para mejorar las capacidades, la eficiencia y la eficacia en aduanas."
+  tags: ["professional", "AI", "Security"]
 
-- name: Finding tendencies in streaming data using big data frequent itemset mining
-  role: Author
-  timeline: "Jan 2019"
-  url: "https://www.sciencedirect.com/science/article/pii/S0950705118304775"
-  summary: The amount of information generated in social media channels or economical/business transactions exceeds the usual bounds of static databases and is in continuous growing. In this work, we propose a frequent itemset mining method using sliding windows capable of extracting tendencies from continuous data flows. For that aim, we develop this method using Big Data technologies, in particular, using the Spark Streaming framework enabling distributing the computation along several clusters and thus improving the algorithm speed. The experimentation carried out shows the capability of our proposal and its scalability when massive amounts of data coming from streams are taken into account.
-  tags: ["academic","Streaming","FIM", "Big Data"]
+- name: BAG-INTEL
+  role: Contributor
+  timeline: "Actual"
+  url: "https://produccioncientifica.ugr.es/investigadores/453606/proyectos"
+  summary: "Sistema inteligente para mejorar la eficiencia y eficacia del control aduanero del equipaje de pasajeros procedentes de vuelos internacionales."
+  tags: ["professional", "AI", "Security"]
 
-- name: A Probabilistic Algorithm for Predictive Control With Full-Complexity Models in Non-Residential Buildings
-  role: Author
-  timeline: "Mar 2019"
-  url: "https://ieeexplore.ieee.org/abstract/document/8669762"
-  summary: Despite the increasing capabilities of information technologies for data acquisition and processing, building energy management systems still require manual configuration and supervision to achieve optimal performance. Model predictive control (MPC) aims to leverage equipment control-particularly heating, ventilation, and air conditioning (HVAC)-by using a model of the building to capture its dynamic characteristics and to predict its response to alternative control scenarios. Usually, MPC approaches are based on simplified linear models, which support faster computation but also present some limitations regarding interpretability, solution diversification, and longer-term optimization. In this paper, we propose a novel MPC algorithm that uses a full-complexity grey-box simulation model to optimize HVAC operation in non-residential buildings. Our system generates hundreds of candidate operation plans, typically …
-  tags: ["academic","Buildings","Computational modeling", "Predictive models", "Biological system modeling", "HVAC", "Data models", "Optimization"]
+- name: Transformers federados con datos sensibles multimodales
+  role: Contributor
+  timeline: "Actual"
+  url: "https://produccioncientifica.ugr.es/investigadores/453606/proyectos"
+  summary: "Transformers federados con datos sensibles multimodales para el aprendizaje seguro y la colaboración en entornos distribuidos, con aplicaciones en salud."
+  tags: ["professional", "health", "Federated Learning"]
 
-- name: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
-  role: Author
-  timeline: "May 2020"
-  url: "https://ieeexplore.ieee.org/abstract/document/9085888"
-  summary: The discovery and exploitation of hidden information in collected data have gained attention in many areas, particularly in the energy field due to their economic and environmental impact. Data mining techniques have then emerged as a suitable toolbox for analyzing the data collected in modern network management systems in order to obtain a meaningful insight into consumption patterns and equipment operation. However, the enormous amount of data generated by sensors, occupational, and meteorological data involve the use of new management systems and data processing. Big Data presents great opportunities for implementing new solutions to manage these massive data sets. In addition, these data present values whose nature complicates and hides the understanding and interpretation of the data and results. Therefore, the use of fuzzy methods to adequately transform the data can improve their interpretability. This article presents an automatic fuzzification method implemented using the Big Data paradigm, which enables, in a later step, the detection of interrelations and patterns among different sensors and weather data recovered from an office building.
-  tags: ["academic","Buildings","Data mining", "Sensors", "Big Data", "Itemsets", "Linguistics"]
+- name: BIDSAT - Big Data Stream Analysis Toolbox
+  role: Contributor
+  timeline: "2023"
+  url: "https://produccioncientifica.ugr.es/investigadores/453606/proyectos"
+  summary: "Big Data Stream Analysis Toolbox, aplicado a un caso de uso real para la detección de cyberbullying."
+  tags: ["professional", "cyber-crime", "Big Data"]
 
+- name: SAPIENS
+  role: Contributor
+  timeline: "2022"
+  url: "https://produccioncientifica.ugr.es/investigadores/453606/proyectos"
+  summary: "Análisis de tendencias y desinformación desde una perspectiva temporal en redes sociales."
+  tags: ["professional", "social media", "misinformation"]

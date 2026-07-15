@@ -1,0 +1,677 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+buttons:
+- name: All
+  filter: all
+- name: Articles
+  filter: article
+- name: Conference Papers
+  filter: conference
+- name: Book Chapters
+  filter: book-chapter
+publications:
+- title: An AI knowledge-based system for police assistance in crime investigation
+  publishedIn:
+    name: Expert Systems, Vol. 42, Núm. 1
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/65a46157528f145c72001a9f
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/65a46157528f145c72001a9f
+  categories:
+  - article
+  tags:
+  - Article
+- title: Comparative Analysis of Federated Association Rules in a Simulated Environment for Medical Applications
+  publishedIn:
+    name: IEEE Journal of Biomedical and Health Informatics
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/683023889fdcd03a7a293023
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/683023889fdcd03a7a293023
+  categories:
+  - article
+  tags:
+  - Article
+- title: Designing a Novel Fuzzy Association Rule Mining Algorithm for Federated Environments
+  publishedIn:
+    name: Lecture Notes in Networks and Systems
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/67ce77d6e210502b2cf70415
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/67ce77d6e210502b2cf70415
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: Fuzzy processing applied to improve multimodal sensor data fusion to discover frequent behavioral patterns for smart healthcare
+  publishedIn:
+    name: Information Fusion, Vol. 123
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/683bae070d572a122ed2342a
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/683bae070d572a122ed2342a
+  categories:
+  - article
+  tags:
+  - Article
+- title: Los perfiles sintéticos generados con redes neuronales y otros sistemas ia, y su protección a través de la propiedad intelectual
+  publishedIn:
+    name: Cuestiones actuales de Derecho mercantil digital (Colex), pp. 136-186
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/686eafedeffc8b56950774a6
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/686eafedeffc8b56950774a6
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: Privacy-preserving energy analytics in smart offices via container-based Federated Learning
+  publishedIn:
+    name: Internet of Things (The Netherlands), Vol. 34
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/68fd598e5170e849fda938b5
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/68fd598e5170e849fda938b5
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'Revolutionizing Sperm Analysis with AI: A Review of Computer-Aided Sperm Analysis Systems'
+  publishedIn:
+    name: Computation, Vol. 13, Núm. 6
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/6869739b84fff30d95b12925
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6869739b84fff30d95b12925
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'Simulafed: an enhanced federated simulated environment for privacy and security in health'
+  publishedIn:
+    name: Computing, Vol. 107, Núm. 1
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/674cde76e6f4e33b0a1a5b56
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/674cde76e6f4e33b0a1a5b56
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'Unveiling Hidden Patterns in Clinical Databases: A Novel Approach Using Level-by-Level Association Rule Mining'
+  publishedIn:
+    name: Lecture Notes in Networks and Systems
+    date: '2025'
+    url: https://produccioncientifica.ugr.es/documentos/67ce77d6e210502b2cf70412
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/67ce77d6e210502b2cf70412
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: A Flexible Big Data System for Credibility-Based Filtering of Social Media Information According to Expertise
+  publishedIn:
+    name: International Journal of Computational Intelligence Systems, Vol. 17, Núm. 1
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/664b29a1cfa2e63241041a58
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/664b29a1cfa2e63241041a58
+  categories:
+  - article
+  tags:
+  - Article
+- title: Are autonomous vehicles blamed differently?
+  publishedIn:
+    name: Proceedings of the Annual Meeting of the Cognitive Science Society
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/668d0b62afa73952f246ad2c
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/668d0b62afa73952f246ad2c
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Artificial Intelligence and Personal Knowledge Management tools for teaching
+  publishedIn:
+    name: 'VI Jornadas Internacionales en Innovación Docente en las titulaciones técnicas (INDOTEC 2023): Libro de actas (Universidad de Granada), pp. 21-28'
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff84793
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff84793
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Can ChatGPT and other AI tools help in teaching tasks?
+  publishedIn:
+    name: 'VI Jornadas Internacionales en Innovación Docente en las titulaciones técnicas (INDOTEC 2023): Libro de actas (Universidad de Granada), pp. 13-20'
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff8478d
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff8478d
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Improving automatic cyberbullying detection in social network environments by fine-tuning a pre-trained sentence transformer language model
+  publishedIn:
+    name: Social Network Analysis and Mining, Vol. 14, Núm. 1
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/66a63d14ee1e685b53ee25bd
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/66a63d14ee1e685b53ee25bd
+  categories:
+  - article
+  tags:
+  - Article
+- title: New Spark solutions for distributed frequent itemset and association rule mining algorithms
+  publishedIn:
+    name: Cluster Computing, Vol. 27, Núm. 2, pp. 1217-1234
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/64609fb5c6d6be6c90fc7182
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/64609fb5c6d6be6c90fc7182
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'The influence of ChatGPT on the artificial intelligence teaching: An ethical and correct use'
+  publishedIn:
+    name: 'VI Jornadas Internacionales en Innovación Docente en las titulaciones técnicas (INDOTEC 2023): Libro de actas (Universidad de Granada), pp. 29-34'
+    date: '2024'
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff8478b
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff8478b
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: A big data association rule mining based approach for energy building behaviour analysis in an IoT environment
+  publishedIn:
+    name: Scientific Reports, Vol. 13, Núm. 1
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/656208b5f2e9e72161e16fe9
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/656208b5f2e9e72161e16fe9
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'AIMDP: An Artificial Intelligence Modern Data Platform. Use case for Spanish national health service data silo'
+  publishedIn:
+    name: Future Generation Computer Systems, Vol. 143, pp. 248-264
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/63f1ba2772e8fb4b23a772cb
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/63f1ba2772e8fb4b23a772cb
+  categories:
+  - article
+  tags:
+  - Article
+- title: An Unsupervised Approach to Extracting Knowledge from the Relationships Between Blame Attribution on Twitter
+  publishedIn:
+    name: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/6522c936ec1a10197ffdc6d3
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6522c936ec1a10197ffdc6d3
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: 'Blame attribution in human-AI and human-only systems: Crowdsourcing judgments from Twitter'
+  publishedIn:
+    name: Annual Meeting of the Cognitive Science Society
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/65e867880c7f49328890130b
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/65e867880c7f49328890130b
+  categories:
+  - article
+  tags:
+  - Article
+- title: Who Is to Blame? Responsibility Attribution in AI Systems vs Human Agents in the Field of Air Crashes
+  publishedIn:
+    name: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/6522c8aaec1a10197ffdb0d1
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6522c8aaec1a10197ffdb0d1
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: '“Health Is the Real Wealth”: Unsupervised Approach to Improve Explainability in Health-Based Recommendation Systems'
+  publishedIn:
+    name: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+    date: '2023'
+    url: https://produccioncientifica.ugr.es/documentos/6522c935ec1a10197ffdc6c7
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6522c935ec1a10197ffdc6c7
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: A Fuzzy-Based Approach for Cyberbullying Analysis
+  publishedIn:
+    name: Communications in Computer and Information Science
+    date: '2022'
+    url: https://produccioncientifica.ugr.es/documentos/62f80cb59162cc4ea7f200b7
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/62f80cb59162cc4ea7f200b7
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: 'A fuzzy-based medical system for pattern mining in a distributed environment: Application to diagnostic and co-morbidity'
+  publishedIn:
+    name: Applied Soft Computing, Vol. 122
+    date: '2022'
+    url: https://produccioncientifica.ugr.es/documentos/62897721ffc02649ba3089eb
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/62897721ffc02649ba3089eb
+  categories:
+  - article
+  tags:
+  - Article
+- title: Big Data Architecture for Building Energy Management Systems
+  publishedIn:
+    name: IEEE Transactions on Industrial Informatics, Vol. 18, Núm. 9, pp. 5738-5747
+    date: '2022'
+    url: https://produccioncientifica.ugr.es/documentos/62c9e7d7a405bc00e4180029
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/62c9e7d7a405bc00e4180029
+  categories:
+  - article
+  tags:
+  - Article
+- title: Improving Text Clustering Using a New Technique for Selecting Trustworthy Content in Social Networks
+  publishedIn:
+    name: Communications in Computer and Information Science
+    date: '2022'
+    url: https://produccioncientifica.ugr.es/documentos/62f80cb59162cc4ea7f200ba
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/62f80cb59162cc4ea7f200ba
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Actitudes y formación sobre inclusión de los docentes universitarios
+  publishedIn:
+    name: Actas del III Congreso Internacional de Innovación Docente e Investigación en Educación Superior
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/61f04424231cc058a9f4ace2
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61f04424231cc058a9f4ace2
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Actitudes y formación sobre inclusión de los docentes universitarios
+  publishedIn:
+    name: 'Innovación docente e investigación en educación: nuevos enfoques en la metodología docente (Dykinson), pp. 381-389'
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/62219d27e5ddf625a4cbec29
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/62219d27e5ddf625a4cbec29
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: 'El rendimiento académico en diferentes etapas educativas: estudiando factores clave'
+  publishedIn:
+    name: Actas del III Congreso Internacional de Innovación Docente e Investigación en Educación Superior
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/6243d57f003522523de5c9d4
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6243d57f003522523de5c9d4
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: 'Metodologías y herramientas utilizando las nuevas tecnologías en Educación Superior: una revisión sistemática'
+  publishedIn:
+    name: Actas del III Congreso Internacional de Innovación Docente e Investigación en Educación Superior
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/61f04426231cc058a9f4ad8d
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61f04426231cc058a9f4ad8d
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: 'Metodologías y herramientas utilizando las nuevas tecnologías en educación superior: Una revisión sistemática'
+  publishedIn:
+    name: 'Innovación docente e investigación en educación y ciencias sociales: nuevos enfoques en la metodología docente (Dykinson), pp. 209-220'
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/6232c34538eb0951a9cb8956
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6232c34538eb0951a9cb8956
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: Nuevo enfoque aplicado a asignaturas interdisciplinares usando las TICS
+  publishedIn:
+    name: 'Innovación docente e investigación en ciencias, ingeniería y arquitectura: nuevos enfoques en la metodología docente (Dykinson), pp. 225-231'
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/6268c97491143101de85a3d0
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6268c97491143101de85a3d0
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: Nuevos métodos de aprendizaje en asignaturas tecnológicas en grados de Arte y Diseño
+  publishedIn:
+    name: Actas del III Congreso Internacional de Innovación Docente e Investigación en Educación Superior
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/61f8d0f45d77007561ab250c
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61f8d0f45d77007561ab250c
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Spark solutions for discovering fuzzy association rules in Big Data
+  publishedIn:
+    name: International Journal of Approximate Reasoning, Vol. 137, pp. 94-112
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8abbd93e62bb601af10
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8abbd93e62bb601af10
+  categories:
+  - article
+  tags:
+  - Article
+- title: ¿La coeducación es una realidad o una utopía? Revisión sistemática de los estudios en población de educación primaria
+  publishedIn:
+    name: 'Innovación docente e investigación en educación y ciencias sociales: nuevos enfoques en la metodología docente (Dykinson), pp. 269-276'
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/6232c34538eb0951a9cb8946
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/6232c34538eb0951a9cb8946
+  categories:
+  - book-chapter
+  tags:
+  - Book Chapter
+- title: '¿La coeducación es una realidad o una utopía?: revisión sistemática de los estudios en población de Educación Primaria'
+  publishedIn:
+    name: Actas del III Congreso Internacional de Innovación Docente e Investigación en Educación Superior
+    date: '2021'
+    url: https://produccioncientifica.ugr.es/documentos/61f04425231cc058a9f4ad63
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61f04425231cc058a9f4ad63
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework
+  publishedIn:
+    name: IEEE Transactions on Fuzzy Systems, Vol. 28, Núm. 11, pp. 2747-2758
+    date: '2020'
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8abbd93e62bb601af1c
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8abbd93e62bb601af1c
+  categories:
+  - article
+  tags:
+  - Article
+- title: Mining text patterns over fake and real tweets
+  publishedIn:
+    name: Communications in Computer and Information Science
+    date: '2020'
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8acbd93e62bb601af22
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8acbd93e62bb601af22
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: A Probabilistic Algorithm for Predictive Control with Full-Complexity Models in Non-Residential Buildings
+  publishedIn:
+    name: IEEE Access, Vol. 7, pp. 38748-38765
+    date: '2019'
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8adbd93e62bb601af31
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8adbd93e62bb601af31
+  categories:
+  - article
+  tags:
+  - Article
+- title: 'A comparative analysis of tools for visualizing association rules: A proposal for visualising fuzzy association rules'
+  publishedIn:
+    name: Proceedings of the 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019)
+    date: '2019'
+    url: https://produccioncientifica.ugr.es/documentos/65e868480c7f49328890130d
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/65e868480c7f49328890130d
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Finding tendencies in streaming data using Big Data frequent itemset mining
+  publishedIn:
+    name: Knowledge-Based Systems, Vol. 163, pp. 666-674
+    date: '2019'
+    url: https://produccioncientifica.ugr.es/documentos/600ef3def179b17b49336aff
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/600ef3def179b17b49336aff
+  categories:
+  - article
+  tags:
+  - Article
+- title: Fuzzy association rules mining using spark
+  publishedIn:
+    name: Communications in Computer and Information Science
+    date: '2018'
+    url: https://produccioncientifica.ugr.es/documentos/600ef3b6f179b17b493368db
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/600ef3b6f179b17b493368db
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Advances in Data Science for Building Energy Management
+  publishedIn:
+    name: 9th International Conference Improving Energy Efficiency in Commercial Buildings and Smart Communities (IEECB&SC'16)
+    date: '2016'
+    url: https://produccioncientifica.ugr.es/documentos/65f7f26d0c7f493288901be2
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/65f7f26d0c7f493288901be2
+  categories:
+  - conference
+  tags:
+  - Conference
+- title: Extraction of association rules using big data technologies
+  publishedIn:
+    name: International Journal of Design and Nature and Ecodynamics, Vol. 11, Núm. 3, pp. 178-185
+    date: '2016'
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8aebd93e62bb601af46
+  authors:
+  - name: Carlos Fernández-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  paper:
+    summary: ''
+    url: https://produccioncientifica.ugr.es/documentos/61a1f8aebd93e62bb601af46
+  categories:
+  - article
+  tags:
+  - Article
