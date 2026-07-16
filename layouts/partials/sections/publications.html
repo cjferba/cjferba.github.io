@@ -1,0 +1,50 @@
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+  {{ $sectionID = .section.id }}
+{{ end }}
+
+{{ $years := slice }}
+{{ range .publications }}
+  {{ if .publishedIn.date }}
+    {{ $years = $years | append .publishedIn.date }}
+  {{ end }}
+{{ end }}
+{{ $years = uniq $years }}
+{{ $years = sort $years "value" "desc" }}
+
+<div class="container-fluid anchor pb-5 publications-section" id="{{ $sectionID }}">
+  {{ if not (.section.hideTitle) }}
+    <h1 class="text-center">
+        <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+  {{ else }}
+    <h1 class="text-center" style="display: none">
+        <span id="{{ $sectionID }}"></span>{{ .section.name }}</h1>
+  {{ end }}
+  <div class="container ms-auto text-center">
+    <div class="btn-group flex-wrap" role="pub-group" id="publication-filter-buttons">
+      {{ range .buttons }}
+      <button type="button" class="btn btn-dark pub-filtr-control" data-filter="pub-{{ .filter }}">
+        {{ .name }}
+      </button>
+      {{ end }}
+    </div>
+  </div>
+  {{ if $years }}
+  <div class="container ms-auto text-center mt-2">
+    <div class="btn-group flex-wrap" role="pub-year-group" id="publication-year-filter-buttons">
+      {{ range $years }}
+      <button type="button" class="btn btn-outline-dark pub-filtr-control" data-multifilter="y-{{ . }}">
+        {{ . }}
+      </button>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+  <div class="container filtr-publications">
+    <div class="row" id="publication-card-holder">
+      {{ range .publications }}
+        {{ partial "cards/publication" . }}
+      {{ end }}
+    </div>
+  </div>
+</div>

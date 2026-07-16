@@ -2,7 +2,7 @@
 section:
   name: Publicaciones
   id: publications
-  enable: false # rendered as its own page at /publicaciones/ instead of a homepage anchor
+  enable: false
   weight: 6
   showOnNavbar: true
 buttons:
@@ -34,6 +34,7 @@ publications:
   tags:
   - Article
   - 12 citas
+  quartile: Q2
 - title: Comparative Analysis of Federated Association Rules in a Simulated Environment for Medical Applications
   publishedIn:
     name: IEEE Journal of Biomedical and Health Informatics
@@ -54,6 +55,7 @@ publications:
   tags:
   - Article
   - 3 citas
+  quartile: Q1
 - title: Designing a Novel Fuzzy Association Rule Mining Algorithm for Federated Environments
   publishedIn:
     name: Lecture Notes in Networks and Systems
@@ -88,6 +90,7 @@ publications:
   tags:
   - Article
   - 3 citas
+  quartile: Q1
 - title: Los perfiles sintéticos generados con redes neuronales y otros sistemas ia, y su protección a través de la propiedad intelectual
   publishedIn:
     name: Cuestiones actuales de Derecho mercantil digital (Colex), pp. 136-186
@@ -155,6 +158,7 @@ publications:
   tags:
   - Article
   - 7 citas
+  quartile: Q2
 - title: 'Unveiling Hidden Patterns in Clinical Databases: A Novel Approach Using Level-by-Level Association Rule Mining'
   publishedIn:
     name: Lecture Notes in Networks and Systems
@@ -258,6 +262,7 @@ publications:
   tags:
   - Article
   - 22 citas
+  quartile: Q2
 - title: New Spark solutions for distributed frequent itemset and association rule mining algorithms
   publishedIn:
     name: Cluster Computing, Vol. 27, Núm. 2, pp. 1217-1234
@@ -275,6 +280,7 @@ publications:
   tags:
   - Article
   - 28 citas
+  quartile: Q1
 - title: 'The influence of ChatGPT on the artificial intelligence teaching: An ethical and correct use'
   publishedIn:
     name: 'VI Jornadas Internacionales en Innovación Docente en las titulaciones técnicas (INDOTEC 2023): Libro de actas (Universidad de Granada), pp. 29-34'
@@ -328,6 +334,7 @@ publications:
   tags:
   - Article
   - 28 citas
+  quartile: Q1
 - title: An Unsupervised Approach to Extracting Knowledge from the Relationships Between Blame Attribution on Twitter
   publishedIn:
     name: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
@@ -436,6 +443,7 @@ publications:
   tags:
   - Article
   - 24 citas
+  quartile: Q1
 - title: Big Data Architecture for Building Energy Management Systems
   publishedIn:
     name: IEEE Transactions on Industrial Informatics, Vol. 18, Núm. 9, pp. 5738-5747
@@ -454,6 +462,7 @@ publications:
   tags:
   - Article
   - 18 citas
+  quartile: Q1
 - title: Improving Text Clustering Using a New Technique for Selecting Trustworthy Content in Social Networks
   publishedIn:
     name: Communications in Computer and Information Science
@@ -642,6 +651,7 @@ publications:
   tags:
   - Article
   - 23 citas
+  quartile: Q1
 - title: Mining text patterns over fake and real tweets
   publishedIn:
     name: Communications in Computer and Information Science
@@ -681,6 +691,7 @@ publications:
   tags:
   - Article
   - 27 citas
+  quartile: Q1
 - title: 'A comparative analysis of tools for visualizing association rules: A proposal for visualising fuzzy association rules'
   publishedIn:
     name: Proceedings of the 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019)
@@ -717,6 +728,7 @@ publications:
   tags:
   - Article
   - 44 citas
+  quartile: Q1
 - title: Fuzzy association rules mining using spark
   publishedIn:
     name: Communications in Computer and Information Science
