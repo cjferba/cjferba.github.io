@@ -1,5 +1,5 @@
 # Datos de la página de Docencia.
-# Se rellenará cuando Carlos mande el listado real de asignaturas y TFG/TFM.
+# Extraído del CVN oficial (FECYT) y del certificado de servicios de la UJA.
 # Esquema:
 #   courses: [{ name, level, institution, years: ["2024/25", ...] }]
 #   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
@@ -7,6 +7,74 @@
 page:
   title: Docencia
 
-courses: []
+courses:
+- name: Creación Multimedia Interactiva
+  level: Grado en Bellas Artes
+  institution: Universidad de Granada
+  years: ["2021/22", "2024/25"]
 
-theses: []
+- name: Música y Nuevas Tecnologías I
+  level: Grado en Historia y Ciencias de la Música
+  institution: Universidad de Granada
+  years: ["2024/25"]
+
+- name: SIG Aplicado a la Arqueología
+  level: Grado en Arqueología
+  institution: Universidad de Granada
+  years: ["2024/25"]
+
+- name: Diseño y Programación de Sistemas Embebidos
+  level: Máster Universitario en Ingeniería Mecatrónica
+  institution: Universidad de Jaén
+  years: ["2023/24"]
+
+- name: Sistemas Operativos
+  level: Grado en Ingeniería Informática
+  institution: Universidad de Granada
+  years: ["2020/21", "2021/22"]
+
+- name: Tecnología Informática para la Empresa
+  level: Grado en Turismo
+  institution: Universidad de Granada
+  years: ["2021/22"]
+
+- name: Técnicas de Visualización y Presentación
+  level: Grado en Estudios de Arquitectura
+  institution: Universidad de Granada
+  years: ["2020/21"]
+
+theses:
+- title: Herramienta para visualización en ciencia de datos
+  student: Antonio Fernández Cabrera
+  type: TFG
+  program: Grado en Ingeniería Informática
+  year: 2024
+  role: Director
+
+- title: Clasificación Automática de Espermatozoides para Mejorar Procesos de Fecundación In Vitro mediante Deep Learning
+  student: Javier Gómez Sánchez
+  type: TFM
+  program: ""
+  year: 2024
+  role: Director
+
+- title: "DEEPCIFV: Deep Learning para Clasificación de Embriones en Fecundación in Vitro"
+  student: ""
+  type: TFE
+  program: ""
+  year: 2024
+  role: Director
+
+- title: Reglas de asociación temporales en el análisis de datos
+  student: ""
+  type: TFE
+  program: ""
+  year: 2024
+  role: Director
+
+- title: Visualización de comportamientos en redes sociales
+  student: Sergio Bravo Poyatos
+  type: TFG
+  program: Grado en Ingeniería Informática
+  year: 2023
+  role: Director
