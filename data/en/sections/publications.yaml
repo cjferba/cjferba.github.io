@@ -15,6 +15,24 @@ buttons:
 - name: Book Chapters
   filter: book-chapter
 publications:
+- title: 'VizARE: An Intermediate Representation to Support the Visualization of Association Rules in Data Mining'
+  publishedIn:
+    name: Future Internet, Vol. 18, Núm. 7
+    date: '2026'
+    url: https://doi.org/10.3390/fi18070374
+  authors:
+  - name: Carlos Fernandez-Basso
+    url: https://orcid.org/0000-0002-8809-8676
+  - name: Maria Dolores Ruiz
+  - name: Miguel Molina-Solana
+  - name: Maria J. Martin-Bautista
+  paper:
+    summary: Data mining techniques are currently highly useful and widely used in industry, business and government. However, their broad adoption is sometimes limited because non-expert users are required to accurately interpret and deal with the complex results obtained. In this paper, we put forward a methodology for the display of association rules using an intermediate form. This technique enables efficient processing of the rules by generating a standard format through a graph structure that allows us to adapt the rules to different display tools. We also show some illustrative examples of the usefulness of this intermediate form.
+    url: https://doi.org/10.3390/fi18070374
+  categories:
+  - article
+  tags:
+  - Article
 - title: An AI knowledge-based system for police assistance in crime investigation
   publishedIn:
     name: Expert Systems, Vol. 42, Núm. 1
