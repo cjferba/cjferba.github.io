@@ -46,14 +46,13 @@ experiences:
      publications:
        - title: Blame attribution in human-AI and human-only systems- Crowdsourcing judgments from Twitter
          url: "https://escholarship.org/uc/item/24w52590" 
-   - designation: Postdoctoral Fellowship
+   - designation: Postdoctoral Researcher (Margarita Salas Fellowship)
      start: Jan 2022
-     # don't provide end date if you are currently working there. It will be replaced by "Present"
-     end: "Present"
+     end: May 2023
      # give some points about what was your responsibilities at the company.
      responsibilities:
-       - Research on automatic blame detection using NLP
-       - Explainable AI.
+       - Research supervised by Prof. David Lagnado on causal reasoning and decision-making
+       - Blame and responsibility attribution in human-AI systems using NLP; Explainable AI
      publications:
        - title: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
          url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538" 
@@ -64,19 +63,20 @@ experiences:
       # company overview
       overview: The University of Granada is a world top university in data science and computer science.
    positions:
-   - designation:  Associate Professor
+   - designation: Assistant Professor (Profesor Ayudante Doctor)
      start: Oct 2024
  # don't provide end date if you are currently working there. It will be replaced by "Present"
  # end: Dec 2020
  # give some points about what was your responsibilities at the company.
      responsibilities:
-       - Professor in the Department of Computer Science in Artificial Intelligence
-       - Subjects Information Systems Design and Development, Intelligent Data Processing
+       - Faculty member at the Department of Computer Science and Artificial Intelligence (CCIA)
+       - Teaching Information Systems Design and Development, and Intelligent Data Processing
+       - Accredited to Associate Professor (Profesor Titular de Universidad) by ANECA, February 2026
 
    - designation: Temporary substitute teacher
      start: Sep 2020
      # don't provide end date if you are currently working there. It will be replaced by "Present"
-     end: Dic 2021
+     end: Dec 2021
      # give some points about what was your responsibilities at the company.
      responsibilities:
        - Teaching staff of the Department of Computer Languages and Systems
@@ -106,7 +106,7 @@ experiences:
 
 
    - designation: Data Science
-     start: Dic 2017
+     start: Dec 2017
      end: Nov 2019
      responsibilities:
        - Development of knowledge extraction algorithms using distributed computation with Spark, hadoop and NoSQL databases (Mongodb).
@@ -137,7 +137,7 @@ experiences:
       overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
    positions:
    - designation: Full stack developer
-     start: Dic 2020
+     start: Dec 2020
      responsibilities:
        - Design of the backend structure of the application.
        - Database management and creation of connection apis.
@@ -150,7 +150,7 @@ experiences:
    positions:
    - designation: Visiting Research Fellow
      start: Sep 2018
-     end: Jan 2018
+     end: Nov 2018
      responsibilities:
        - Development of artificial intelligence tools for energy efficiency
    - designation: Visiting Research Fellow
@@ -165,6 +165,6 @@ experiences:
       overview: The International University of La Rioja is a private Spanish online education university, with headquarters in Logroño and presence in Mexico, Colombia, Ecuador and Peru. In mid-2020 it had more than 48,000 students in official studies, of which more than 17,000 are international.
    positions:
    - designation: Educational content creator
-     start: Dic 2020
+     start: Dec 2020
      responsibilities:
        - Development of syllabus and multimedia content for subjects such as fundamentals of programming for the degree in video game design and creation.
