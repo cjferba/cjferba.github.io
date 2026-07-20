@@ -1,6 +1,7 @@
 # Teaching page data.
-# Sourced from Carlos's official UGR teaching record (Certificado de Docencia),
-# the official ETSIIT thesis certificate, and his CVA (FECYT/ANECA).
+# Sourced from Carlos's official UGR "Certificado de Docencia" (Universidad
+# de Granada, issued 20/07/2026, CSV AC51E3C0CD74B857E9B6593FDC82AD2B), the
+# official ETSIIT thesis certificate, and his CVA (FECYT/ANECA).
 # Schema:
 #   courses: [{ name, level, institution, years: ["2024/25", ...] }]
 #   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
@@ -10,19 +11,24 @@ page:
 
 courses:
 - name: Information Systems Design and Development
-  level: Master's Degree in Computer Engineering
+  level: Bachelor's Degree in Computer Engineering
   institution: University of Granada
   years: ["2025/26"]
 
 - name: Intelligent Data Processing
-  level: Master's Degree in Computer Engineering
+  level: Master's Degree in Computer Engineering (PhD track)
+  institution: University of Granada
+  years: ["2025/26"]
+
+- name: History of Mathematics
+  level: Bachelor's Degree in Mathematics
   institution: University of Granada
   years: ["2025/26"]
 
 - name: Interactive Multimedia Creation
   level: Bachelor's Degree in Fine Arts
   institution: University of Granada
-  years: ["2021/22", "2024/25"]
+  years: ["2020/21", "2024/25"]
 
 - name: Music and New Technologies I & II
   level: Bachelor's Degree in History and Music Sciences
