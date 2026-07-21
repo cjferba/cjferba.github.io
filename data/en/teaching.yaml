@@ -1,7 +1,8 @@
 # Teaching page data.
 # Sourced from Carlos's official UGR "Certificado de Docencia" (Universidad
 # de Granada, issued 20/07/2026, CSV AC51E3C0CD74B857E9B6593FDC82AD2B), the
-# official ETSIIT thesis certificate, and his CVA (FECYT/ANECA).
+# official ETSIIT thesis certificate, his CVA (FECYT/ANECA), and the TFG/TFM
+# cover pages in his OneDrive "3-Docencia" folder.
 # Schema:
 #   courses: [{ name, level, institution, years: ["2024/25", ...] }]
 #   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
@@ -66,24 +67,52 @@ courses:
   years: ["2020/21 –"]
 
 theses:
-- title: Improving LLMs' comprehension of network traces by splitting queries into subtasks
-  student: H. E. A. L.
+- title: Analysis of vulnerabilities and attack methods in Federated Learning environments
+  student: Daniel Serrano Ortiz
+  type: TFG
+  program: Bachelor's in Computer Engineering
+  year: 2026
+  role: Director
+
+- title: AI application for the management and visualisation of clinical data
+  student: Ángel Sánchez Guerrero
   type: TFG
   program: Bachelor's in Computer Engineering
   year: 2025
   role: Director
 
+- title: Blame Game
+  student: Jose Vera Castillo
+  type: TFG
+  program: Bachelor's in Computer Engineering
+  year: 2026
+  role: Director
+
 - title: Support application for the generation of clinical reports
-  student: R. M. A.
+  student: Raúl Martínez Alonso
+  type: TFG
+  program: Bachelor's in Computer Engineering
+  year: 2025
+  role: Director
+
+- title: "NetExplAIner: improving LLMs' comprehension of network traces by splitting queries and offloading mathematical operations"
+  student: Hossam El Amraoui Leghzali
   type: TFG
   program: Bachelor's in Computer Engineering
   year: 2025
   role: Director
 
 - title: Testssl development with a web frontend and CCN-STIC-221 compliance analysis
-  student: P. R. L.
+  student: Pablo Reyes Lafuente
   type: TFG
   program: Bachelor's in Telecommunication Technologies Engineering
+  year: 2025
+  role: Director
+
+- title: Using Generative Adversarial Networks for noise removal in astronomical images
+  student: Sergio Gutiérrez Villalba
+  type: TFG
+  program: Bachelor's in Computer Engineering
   year: 2025
   role: Director
 
@@ -101,17 +130,38 @@ theses:
   year: 2023
   role: Director
 
+- title: "MedicalExplAIner: evaluating Large Language Models for ESI triage prediction in emergency departments"
+  student: Hossam El Amraoui Leghzali
+  type: TFM
+  program: Master's Degree in Data Science and Computer Engineering
+  year: 2026
+  role: Director
+
+- title: Automatic generation of clinical reports from expert knowledge using Large Language Models
+  student: Adrián Carmona Lupiáñez
+  type: TFM
+  program: Master's Degree in Data Science and Computer Engineering
+  year: 2026
+  role: Codirector
+
+- title: Tracking and analysis of sperm motility using deep learning
+  student: Sergio Aguilera Ramírez
+  type: TFM
+  program: Master's Degree in Data Science and Computer Engineering
+  year: 2026
+  role: Director
+
 - title: Automatic sperm classification to improve in vitro fertilisation processes using Deep Learning
   student: Javier Gómez Sánchez
   type: TFM
-  program: Master's Degree
+  program: Master's Degree in Data Science and Computer Engineering
   year: 2024
   role: Director
 
 - title: "DEEPCIFV: Deep Learning for embryo classification in in vitro fertilisation"
-  student: ""
+  student: Edgar Joel Pérez Rivera
   type: TFM
-  program: Master's Degree
+  program: Master's Degree in Data Science and Computer Engineering
   year: 2024
   role: Director
 

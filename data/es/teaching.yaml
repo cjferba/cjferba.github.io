@@ -1,7 +1,8 @@
 # Datos de la página de Docencia.
 # Extraído del Certificado de Docencia oficial de la Universidad de Granada
 # (emitido 20/07/2026, CSV AC51E3C0CD74B857E9B6593FDC82AD2B), el certificado
-# de tesis de la ETSIIT y su CVA (FECYT/ANECA).
+# de tesis de la ETSIIT, su CVA (FECYT/ANECA) y las portadas de los TFG/TFM
+# de su carpeta OneDrive "3-Docencia".
 # Esquema:
 #   courses: [{ name, level, institution, years: ["2024/25", ...] }]
 #   theses:  [{ title, student, type: TFG|TFM|PhD, program, year, role }]
@@ -66,24 +67,52 @@ courses:
   years: ["2020/21 –"]
 
 theses:
-- title: Mejora de la comprensión de trazas de red por LLMs mediante la división de consultas en subtareas
-  student: H. E. A. L.
+- title: Análisis de vulnerabilidades y formas de ataque en entornos de Aprendizaje Federado
+  student: Daniel Serrano Ortiz
+  type: TFG
+  program: Grado en Ingeniería Informática
+  year: 2026
+  role: Director
+
+- title: Aplicación de IA para la gestión y visualización de datos clínicos
+  student: Ángel Sánchez Guerrero
   type: TFG
   program: Grado en Ingeniería Informática
   year: 2025
   role: Director
 
-- title: Aplicación de apoyo para la generación de informes clínicos
-  student: R. M. A.
+- title: Blame Game
+  student: Jose Vera Castillo
+  type: TFG
+  program: Grado en Ingeniería Informática
+  year: 2026
+  role: Director
+
+- title: Aplicación de ayuda para la generación de informes clínicos
+  student: Raúl Martínez Alonso
+  type: TFG
+  program: Grado en Ingeniería Informática
+  year: 2025
+  role: Director
+
+- title: "NetExplAIner: mejora de la capacidad de comprensión de trazas de red de los LLMs mediante la división de consultas y la externalización de operaciones matemáticas"
+  student: Hossam El Amraoui Leghzali
   type: TFG
   program: Grado en Ingeniería Informática
   year: 2025
   role: Director
 
 - title: Desarrollo de Testssl con frontend web y análisis de cumplimiento CCN-STIC-221
-  student: P. R. L.
+  student: Pablo Reyes Lafuente
   type: TFG
   program: Grado en Ingeniería de Tecnologías de Telecomunicación
+  year: 2025
+  role: Director
+
+- title: Uso de Generative Adversarial Network para la eliminación de ruido en imágenes astronómicas
+  student: Sergio Gutiérrez Villalba
+  type: TFG
+  program: Grado en Ingeniería Informática
   year: 2025
   role: Director
 
@@ -101,17 +130,38 @@ theses:
   year: 2023
   role: Director
 
+- title: "MedicalExplAIner: evaluación de Grandes Modelos de Lenguaje para la predicción del triaje ESI en urgencias"
+  student: Hossam El Amraoui Leghzali
+  type: TFM
+  program: Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
+  year: 2026
+  role: Director
+
+- title: Generación automática de informes clínicos a partir de conocimiento experto mediante Large Language Models
+  student: Adrián Carmona Lupiáñez
+  type: TFM
+  program: Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
+  year: 2026
+  role: Codirector
+
+- title: Seguimiento y análisis de la movilidad de los espermatozoides utilizando deep learning
+  student: Sergio Aguilera Ramírez
+  type: TFM
+  program: Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
+  year: 2026
+  role: Director
+
 - title: Clasificación Automática de Espermatozoides para Mejorar Procesos de Fecundación In Vitro mediante Deep Learning
   student: Javier Gómez Sánchez
   type: TFM
-  program: Máster Universitario
+  program: Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
   year: 2024
   role: Director
 
 - title: "DEEPCIFV: Deep Learning para Clasificación de Embriones en Fecundación in Vitro"
-  student: ""
+  student: Edgar Joel Pérez Rivera
   type: TFM
-  program: Máster Universitario
+  program: Máster Universitario en Ciencia de Datos e Ingeniería de Computadores
   year: 2024
   role: Director
 

@@ -36,7 +36,7 @@ experiences:
       overview: UCL was rated 2nd in the UK for research power in the Research Excellence Framework 2021. UCL is ranked 8th in the 2022 QS World University Rankings. There have been 30 Nobel Prize laureates amongst UCL’s alumni and current and former staff to date.
    positions:
    - designation: research collaborator
-     start: Mar 2024
+     start: May 2023
      # don't provide end date if you are currently working there. It will be replaced by "Present"
      end: "Present"
      # give some points about what was your responsibilities at the company.
@@ -64,7 +64,7 @@ experiences:
       overview: The University of Granada is a world top university in data science and computer science.
    positions:
    - designation: Assistant Professor (Profesor Ayudante Doctor)
-     start: Oct 2024
+     start: Jun 2025
  # don't provide end date if you are currently working there. It will be replaced by "Present"
  # end: Dec 2020
  # give some points about what was your responsibilities at the company.
@@ -72,6 +72,12 @@ experiences:
        - Faculty member at the Department of Computer Science and Artificial Intelligence (CCIA)
        - Teaching Information Systems Design and Development, and Intelligent Data Processing
        - Accredited to Associate Professor (Profesor Titular de Universidad) by ANECA, February 2026
+
+   - designation: Assistant Professor (Profesor Ayudante Doctor)
+     start: Oct 2024
+     end: Jun 2025
+     responsibilities:
+       - Faculty member at the Department of Software Engineering
 
    - designation: Temporary substitute teacher
      start: Sep 2020
@@ -137,7 +143,8 @@ experiences:
       overview: International outbound and inbound parcel processing efficiency increased using Machine Learning.
    positions:
    - designation: Full stack developer
-     start: Dec 2020
+     start: Feb 2022
+     end: Mar 2023
      responsibilities:
        - Design of the backend structure of the application.
        - Database management and creation of connection apis.
@@ -150,7 +157,7 @@ experiences:
    positions:
    - designation: Visiting Research Fellow
      start: Sep 2018
-     end: Nov 2018
+     end: Dec 2018
      responsibilities:
        - Development of artificial intelligence tools for energy efficiency
    - designation: Visiting Research Fellow
