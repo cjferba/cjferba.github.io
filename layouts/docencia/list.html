@@ -46,24 +46,44 @@
 
         <h4 class="mt-5">TFG / TFM / Theses supervised</h4>
         {{ if $data.theses }}
-        <div class="table-responsive">
-          <table class="table">
-            <thead>
-              <tr><th>Title</th><th>Student</th><th>Type</th><th>Program</th><th>Year</th><th>Role</th></tr>
-            </thead>
-            <tbody>
-              {{ range $data.theses }}
-              <tr>
-                <td>{{ .title }}</td>
-                <td>{{ .student }}</td>
-                <td>{{ .type }}</td>
-                <td>{{ .program }}</td>
-                <td>{{ .year }}</td>
-                <td>{{ .role }}</td>
-              </tr>
-              {{ end }}
-            </tbody>
-          </table>
+        {{ $types := slice "TFG" "TFM" "PhD" }}
+        <ul class="nav nav-tabs" id="theses-tab" role="tablist">
+          {{ range $i, $type := $types }}
+          <li class="nav-item" role="presentation">
+            <button class="nav-link{{ if eq $i 0 }} active{{ end }}" id="{{ $type | lower }}-tab" data-bs-toggle="tab" data-bs-target="#{{ $type | lower }}-pane" type="button" role="tab" aria-controls="{{ $type | lower }}-pane" aria-selected="{{ if eq $i 0 }}true{{ else }}false{{ end }}">
+              {{ $type }} ({{ len (where $data.theses "type" $type) }})
+            </button>
+          </li>
+          {{ end }}
+        </ul>
+        <div class="tab-content pt-3" id="theses-tab-content">
+          {{ range $i, $type := $types }}
+          {{ $items := where $data.theses "type" $type }}
+          <div class="tab-pane fade{{ if eq $i 0 }} show active{{ end }}" id="{{ $type | lower }}-pane" role="tabpanel" aria-labelledby="{{ $type | lower }}-tab">
+            {{ if $items }}
+            <div class="table-responsive">
+              <table class="table">
+                <thead>
+                  <tr><th>Title</th><th>Student</th><th>Program</th><th>Year</th><th>Role</th></tr>
+                </thead>
+                <tbody>
+                  {{ range $items }}
+                  <tr>
+                    <td>{{ .title }}</td>
+                    <td>{{ .student }}</td>
+                    <td>{{ .program }}</td>
+                    <td>{{ .year }}</td>
+                    <td>{{ .role }}</td>
+                  </tr>
+                  {{ end }}
+                </tbody>
+              </table>
+            </div>
+            {{ else }}
+            <p class="text-muted">Coming soon.</p>
+            {{ end }}
+          </div>
+          {{ end }}
         </div>
         {{ else }}
         <p class="text-muted">Coming soon.</p>
