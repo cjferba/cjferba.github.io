@@ -11,56 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Universidad de Jaén
-    url: "https://www.ujaen.es/"
-    location: Jaén, España
-    overview: La Universidad de Jaén destaca por su compromiso con la excelencia investigadora, fomentando la innovación en todas las disciplinas a través de instalaciones de última generación y redes de colaboración.
-  positions:
-  - designation: Contrato postdoctoral
-    start: Mar 2024
-    end: Oct 2024
-    responsibilities:
-    - Investigación en detección automática de actividad en IoT
-    - Inteligencia artificial explicable
-    publications:
-    - title: An AI knowledge‐based system for police assistance in crime investigation
-      url: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13524"
-
-- company:
-    name: University College London
-    url: "https://www.ucl.ac.uk/"
-    location: Londres, Reino Unido
-    overview: UCL fue clasificada 2ª del Reino Unido en potencia investigadora en el Research Excellence Framework 2021. UCL ocupa el puesto 8º en el QS World University Rankings 2022. Cuenta con 30 premios Nobel entre su alumnado y personal, pasado y presente.
-  positions:
-  - designation: Colaborador de investigación
-    start: May 2023
-    end: "Present"
-    responsibilities:
-    - Investigación en detección automática de atribución de culpa mediante NLP
-    - Inteligencia artificial explicable
-    publications:
-    - title: Blame attribution in human-AI and human-only systems- Crowdsourcing judgments from Twitter
-      url: "https://escholarship.org/uc/item/24w52590"
-  - designation: Contrato postdoctoral (Beca Margarita Salas)
-    start: Jan 2022
-    end: May 2023
-    responsibilities:
-    - Investigación supervisada por el Prof. David Lagnado sobre razonamiento causal y toma de decisiones
-    - Atribución de culpa y responsabilidad en sistemas humano-IA mediante NLP; IA explicable
-    publications:
-    - title: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
-      url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538"
-
-- company:
     name: Universidad de Granada
     url: "https://www.ugr.es"
     location: Granada, España
     # company overview
     overview: La Universidad de Granada es una de las mejores universidades del mundo en ciencia de datos e informática.
   positions:
+  - designation: Profesor Permanente Laboral
+    start: Jul 2026
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    responsibilities:
+    - Profesor permanente en el departamento de Ciencias de la Computación e Inteligencia Artificial (CCIA)
+    - Asignaturas Diseño y Desarrollo de Sistemas de Información, Tratamiento Inteligente de Datos
+
   - designation: Profesor ayudante doctor
     start: Jun 2025
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jul 2026
     responsibilities:
     - Profesor en el departamento de Ciencias de la Computación e Inteligencia Artificial (CCIA)
     - Asignaturas Diseño y Desarrollo de Sistemas de Información, Tratamiento Inteligente de Datos
@@ -132,6 +98,47 @@ experiences:
     - Design and management of a Web in PHP and MySQL with jquery ajax
 
 - company:
+    name: Universidad de Jaén
+    url: "https://www.ujaen.es/"
+    location: Jaén, España
+    overview: La Universidad de Jaén destaca por su compromiso con la excelencia investigadora, fomentando la innovación en todas las disciplinas a través de instalaciones de última generación y redes de colaboración.
+  positions:
+  - designation: Contrato postdoctoral
+    start: Mar 2024
+    end: Oct 2024
+    responsibilities:
+    - Investigación en detección automática de actividad en IoT
+    - Inteligencia artificial explicable
+    publications:
+    - title: An AI knowledge‐based system for police assistance in crime investigation
+      url: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13524"
+
+- company:
+    name: University College London
+    url: "https://www.ucl.ac.uk/"
+    location: Londres, Reino Unido
+    overview: UCL fue clasificada 2ª del Reino Unido en potencia investigadora en el Research Excellence Framework 2021. UCL ocupa el puesto 8º en el QS World University Rankings 2022. Cuenta con 30 premios Nobel entre su alumnado y personal, pasado y presente.
+  positions:
+  - designation: Colaborador de investigación
+    start: May 2023
+    end: "Present"
+    responsibilities:
+    - Investigación en detección automática de atribución de culpa mediante NLP
+    - Inteligencia artificial explicable
+    publications:
+    - title: Blame attribution in human-AI and human-only systems- Crowdsourcing judgments from Twitter
+      url: "https://escholarship.org/uc/item/24w52590"
+  - designation: Contrato postdoctoral (Beca Margarita Salas)
+    start: Jan 2022
+    end: May 2023
+    responsibilities:
+    - Investigación supervisada por el Prof. David Lagnado sobre razonamiento causal y toma de decisiones
+    - Atribución de culpa y responsabilidad en sistemas humano-IA mediante NLP; IA explicable
+    publications:
+    - title: A fuzzy-based medical system for pattern mining in a distributed environment Application to diagnostic and co-morbidity
+      url: "https://www.sciencedirect.com/science/article/pii/S1568494622002538"
+
+- company:
     name: SiftyML
     url: "http://siftyml.com"
     location: Londres
@@ -170,6 +177,7 @@ experiences:
   positions:
   - designation: Educational content creator
     start: Dic 2020
+    end: Dic 2020
     responsibilities:
     - Development of syllabus and multimedia content for subjects such as fundamentals of programming for the degree in video game design and creation.
 

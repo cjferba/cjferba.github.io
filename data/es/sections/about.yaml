@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Porfesor ayudante doctor
+designation: Profesor Permanente Laboral
 # your company information
 company:
   name: Universidad de Granada
